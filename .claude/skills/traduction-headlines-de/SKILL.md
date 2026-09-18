@@ -84,6 +84,19 @@ en français uniquement si c'est vraiment nécessaire pour comprendre un choix f
 (jeu de mots entièrement réinventé, changement d'image marquant). Sinon, tais-toi
 et laisse la copy parler.
 
+## Lexique & règles de marque (appris de l'utilisateur)
+
+Ces choix priment sur toute autre option. Enrichir cette liste à chaque nouvelle
+correction de l'utilisateur.
+
+- **bol** → toujours **Schale**. Jamais *Tasse*, jamais *Schüssel*. C'est le mot le
+  plus juste pour un bol de petit-déjeuner (céréales, chocolat).
+- **sans sucre ajouté / aucun sucre ajouté** → dire simplement **zuckerfrei**. Ne
+  pas alourdir avec *ohne Zuckerzusatz* ; rester naturel et court.
+- **Digestibilité avant tout.** Les phrases doivent être fluides, légères et
+  sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
+  En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
+
 ## Exemples
 
 **Exemple 1 — slogan, jeu de mots à réinventer**
