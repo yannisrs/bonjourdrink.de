@@ -159,6 +159,11 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
+- **faire un écart** (alimentaire, se faire un petit plaisir « interdit ») →
+  **naschen**. C'est l'équivalent idiomatique allemand du grignotage-plaisir ;
+  éviter les calques type *einen Ausrutscher machen*.
+- **la rentrée** (scolaire) → **Schulstart** (ou *Schulanfang*). Ne pas traduire
+  par *Rückkehr* ou autre calque.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
