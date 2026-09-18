@@ -165,6 +165,9 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
+- **brouillard mental** → **Brain Fog**. L'anglicisme est le terme réellement
+  employé en allemand (wellness, réseaux) ; éviter le calque *Gehirnnebel*. En
+  version soft/conforme : *für einen klaren Kopf*.
 - **faire un écart** (alimentaire, se faire un petit plaisir « interdit ») →
   **naschen**. C'est l'équivalent idiomatique allemand du grignotage-plaisir ;
   éviter les calques type *einen Ausrutscher machen*.
