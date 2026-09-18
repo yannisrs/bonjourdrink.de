@@ -175,6 +175,11 @@ seconde. Un titre affirme, il n'explique pas.
 Exemple : « Wann du die Vitamine deines Kindes am besten gibst » (phrase, verbe
 final, lourd) → **« Die beste Zeit für die Vitamine deines Kindes »** (groupe
 nominal, immédiat, ça se saisit d'un coup d'œil).
+Même logique quand une phrase est inévitable : garde le verbe en 2e position avec
+le complément juste après, plutôt qu'au parfait avec le participe rejeté en fin.
+Exemple : « Dein Morgen hat das Gegenteil verdient » (participe final, on attend la
+chute) → **« Dein Morgen verdient das Gegenteil »** (verbe tôt, l'idée arrive
+d'un coup).
 
 **Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
 promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
