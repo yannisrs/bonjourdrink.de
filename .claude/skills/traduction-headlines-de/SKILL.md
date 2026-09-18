@@ -24,6 +24,23 @@ toujours trop longue, trop plate, ou légèrement « à côté » — elle trahi
 étrangère et tue l'impact. Ton produit final, c'est l'**effet** sur le lecteur, pas
 la correspondance des mots.
 
+## La règle numéro un : ça doit sonner naturel à l'oral
+
+C'est LE point non négociable. Le français (ou toute autre langue source) est
+souvent très oral, très vivant — et c'est exactement ce qu'on veut garder. Mais une
+traduction mot à mot de cet oral donne presque toujours un allemand qui **sonne
+faux** : rigide, écrit, « traduit ». En pub, le texte est lu en une fraction de
+seconde ; s'il sonne étranger ou artificiel, il est mort avant d'être compris.
+
+Donc le résultat allemand doit être, dans cet ordre de priorité :
+**naturel · accrocheur · oral · authentique.**
+
+Test à passer systématiquement : *lis ta phrase allemande à voix haute. Est-ce
+qu'un·e Allemand·e la dirait spontanément, telle quelle, dans la vraie vie ?* Si tu
+sens la moindre raideur, le moindre calque, la moindre tournure « de manuel » —
+réécris. Éloigne-toi du texte source autant qu'il le faut : ce qui compte, c'est que
+ça sonne comme si c'était né en allemand.
+
 ## Le principe de base
 
 Traduis l'**intention**, pas les mots. Pour chaque texte, demande-toi :
