@@ -174,6 +174,8 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **calcium** → **Calcium** (avec C), l'orthographe attendue en contexte
+  nutritionnel/étiquette, pas *Kalzium*.
 - **premier ingrédient / 1er ingrédient** → **die erste Zutat** (« Zucker ist die
   erste Zutat »). Éviter *Zutat Nr. 1*, jugé moins bon.
 - **avaler / ingurgiter (du sucre, etc.)** → **gegessen** (« hat schon so viel Zucker
