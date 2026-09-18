@@ -93,6 +93,13 @@ correction de l'utilisateur.
   plus juste pour un bol de petit-déjeuner (céréales, chocolat).
 - **sans sucre ajouté / aucun sucre ajouté** → dire simplement **zuckerfrei**. Ne
   pas alourdir avec *ohne Zuckerzusatz* ; rester naturel et court.
+- **Toujours tutoyer (du).** Jamais de « Sie », même si l'original français
+  vouvoie : un « vous » de politesse (une seule personne) devient **du** en
+  allemand. Exception : si le « vous » français est un **vous pluriel** (on
+  s'adresse à plusieurs personnes), utiliser **ihr** — le tutoiement pluriel,
+  jamais le « Sie » de politesse.
+- **recettes** (gamme de boissons/parfums) → **Sorten**. Sonne authentique ;
+  éviter *Rezepte*, trop littéral.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
