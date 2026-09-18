@@ -150,6 +150,15 @@ Exemples validés à prendre comme boussole de ton :
 Chaque fois que tu hésites entre une formulation « propre » et une formulation plus
 courte et plus vivante, choisis la vivante.
 
+**Headline = groupe nominal, pas phrase.** Pour un titre ou une headline, préfère un
+groupe nominal court et frappant à une phrase complète. Évite surtout les structures
+où le verbe tombe en fin de proposition (subordonnées) : en allemand, ce verbe final
+oblige à attendre la fin pour comprendre — fatal pour un titre lu en une fraction de
+seconde. Un titre affirme, il n'explique pas.
+Exemple : « Wann du die Vitamine deines Kindes am besten gibst » (phrase, verbe
+final, lourd) → **« Die beste Zeit für die Vitamine deines Kindes »** (groupe
+nominal, immédiat, ça se saisit d'un coup d'œil).
+
 **Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
 promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
 neutre — sans jamais alourdir. Exemple : « drei Viertel der Packung » →
