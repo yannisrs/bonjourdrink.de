@@ -174,6 +174,8 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **premier ingrédient / 1er ingrédient** → **die erste Zutat** (« Zucker ist die
+  erste Zutat »). Éviter *Zutat Nr. 1*, jugé moins bon.
 - **avaler / ingurgiter (du sucre, etc.)** → **gegessen** (« hat schon so viel Zucker
   gegessen wie… »). Éviter le trop familier *intus haben* : rester oral mais clair.
 - **principe(s) actif(s) / actifs** → **Wirkstoffe**. (Choix de marque validé : c'est
