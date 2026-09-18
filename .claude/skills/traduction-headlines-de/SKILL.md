@@ -41,6 +41,28 @@ sens la moindre raideur, le moindre calque, la moindre tournure « de manuel » 
 réécris. Éloigne-toi du texte source autant qu'il le faut : ce qui compte, c'est que
 ça sonne comme si c'était né en allemand.
 
+## Le type de contenu que tu traduis
+
+Ce skill sert avant tout à adapter des **concepts publicitaires courts pour la
+marque Bonjour** (gammes CORE, adultes, et KIDS, enfants — boissons/petit-déjeuner,
+chocolat chaud sans sucre ajouté). Les textes arrivent typiquement sous ces formes,
+souvent mélangées dans une même version :
+
+- **Headline / titre** en tête, suivi de sous-lignes.
+- **Didascalies visuelles entre crochets** décrivant l'image ou le format
+  (« [4 objets : …] », « [1 objet : la tasse fumante] », « Grille : 30 cases… »).
+  → à traduire aussi (voir la règle « tout traduire »).
+- **Structures avant / après** ou **oppositions** (colonne rouge vs verte, produit
+  concurrent vs Bonjour).
+- **Timelines** « Jour 1 / Jour 8 / Jour 19 » racontant une transformation.
+- **Listes chiffrées** (grammes de sucre, nutriments) et **bandeaux** de réassurance
+  (avis, garantie, origine).
+- **Punchline de clôture** en majuscules.
+
+Garde toujours cette structure et ces sauts de ligne dans ta sortie : tu livres la
+même maquette, en allemand. Le ton de marque est complice, direct, jamais
+moralisateur — on informe et on donne envie, on ne culpabilise pas.
+
 ## Le principe de base
 
 Traduis l'**intention**, pas les mots. Pour chaque texte, demande-toi :
