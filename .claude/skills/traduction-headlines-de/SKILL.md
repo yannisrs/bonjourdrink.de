@@ -93,6 +93,9 @@ correction de l'utilisateur.
   plus juste pour un bol de petit-déjeuner (céréales, chocolat).
 - **sans sucre ajouté / aucun sucre ajouté** → dire simplement **zuckerfrei**. Ne
   pas alourdir avec *ohne Zuckerzusatz* ; rester naturel et court.
+- **sachet(s)** → toujours **Packung(en)**.
+- **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
+  tournure plus familière/UGC).
 - **Digestibilité avant tout.** Les phrases doivent être fluides, légères et
   sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
   En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
