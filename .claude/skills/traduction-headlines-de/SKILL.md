@@ -108,8 +108,13 @@ correction de l'utilisateur.
 
 - **bol** → toujours **Schale**. Jamais *Tasse*, jamais *Schüssel*. C'est le mot le
   plus juste pour un bol de petit-déjeuner (céréales, chocolat).
-- **sans sucre ajouté / aucun sucre ajouté** → dire simplement **zuckerfrei**. Ne
-  pas alourdir avec *ohne Zuckerzusatz* ; rester naturel et court.
+- **sans sucre ajouté / aucun sucre ajouté** → **zuckerfrei** ou **ohne Zucker**
+  selon le contexte, jamais *ohne Zuckerzusatz* (trop lourd). Alterner :
+  - **ohne Zucker** dans une phrase entière, quand on parle concrètement (langage
+    parlé, fluide) : « Ein heißer Kakao **ohne Zucker**, mit 8 Nährstoffen… ».
+  - **zuckerfrei** quand ce sont des mots qui s'enchaînent — bandeaux, listes,
+    headlines, énumérations : « **Zuckerfrei** · 8 Nährstoffe · Hergestellt in
+    Frankreich ».
 - **Toujours tutoyer (du).** Jamais de « Sie », même si l'original français
   vouvoie : un « vous » de politesse (une seule personne) devient **du** en
   allemand. Exception : si le « vous » français est un **vous pluriel** (on
@@ -132,6 +137,13 @@ correction de l'utilisateur.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
+- **Toujours des sources allemandes pour un texte allemand.** Ne jamais laisser une
+  référence, une agence ou une norme française (p. ex. **ANSES**) dans une pub
+  destinée au public allemand : elle ne lui parle pas et sonne « traduit ».
+  Rechercher l'équivalent reconnu en Allemagne — p. ex. la **DGE** (Deutsche
+  Gesellschaft für Ernährung) ou l'**OMS/WHO** pour les recommandations en sucre —
+  et vérifier le chiffre exact avant de l'utiliser. Faire une recherche web dès
+  qu'une source, une norme ou un seuil chiffré est cité.
 - **Digestibilité avant tout.** Les phrases doivent être fluides, légères et
   sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
   En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
