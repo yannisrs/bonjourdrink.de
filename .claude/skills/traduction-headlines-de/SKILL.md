@@ -177,8 +177,9 @@ correction de l'utilisateur.
 - **principe(s) actif(s) / actifs** → **Wirkstoffe**. (Choix de marque validé : c'est
   plus direct et percutant que *aktive Inhaltsstoffe*. À garder même si *Wirkstoff*
   connote le médicament — préférence assumée côté marque.)
-- **compléments (alimentaires)** → **Supplements** (anglicisme courant et vivant
-  dans le wellness allemand ; *Nahrungsergänzungsmittel* est lourd).
+- **compléments (alimentaires)** → **Nahrungsergänzung / Nahrungsergänzungsmittel**
+  (forme allemande standard, choix de marque validé ; ne pas utiliser l'anglicisme
+  *Supplements* ici, ni la variante non standard *Nahrungsmittelergänzung*).
 - **substitut de café** → **Kaffee-Ersatz**.
 - **brouillard mental** → **Brain Fog**. L'anglicisme est le terme réellement
   employé en allemand (wellness, réseaux) ; éviter le calque *Gehirnnebel*. En
