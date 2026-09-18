@@ -119,6 +119,20 @@ correction de l'utilisateur.
   sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
   En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
 
+## Le registre qui marche (validé par l'utilisateur)
+
+La copy qui plaît est **directe, naturelle et faite pour capter l'attention** du
+consommateur. Vise des tournures courtes, parlées, qui claquent — le genre de
+phrase qu'un·e Allemand·e dirait vraiment et qui accroche l'œil dès le premier mot.
+
+Exemples validés à prendre comme boussole de ton :
+- « **Einen Versuch wert.** » (pour « ça se tente ») — direct, idiomatique, ça
+  donne envie d'essayer sans forcer.
+- « **Ob es schmeckt.** » (pour « s'il aime ») — ultra-naturel, va droit au but.
+
+Chaque fois que tu hésites entre une formulation « propre » et une formulation plus
+courte et plus vivante, choisis la vivante.
+
 ## Exemples
 
 **Exemple 1 — slogan, jeu de mots à réinventer**
