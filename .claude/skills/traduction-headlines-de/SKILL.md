@@ -96,15 +96,17 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   les gallicismes (« Machen Sie den Unterschied » calqué sur « faites la
   différence ») et le « translationese ». En cas de doute, préfère la formulation
   qu'un natif emploierait spontanément.
-- **Anglicismes : ni réflexe, ni tabou — vérifier.** Beaucoup d'anglicismes font
-  partie de l'allemand du quotidien (Kick, Crash, Look, Snack, Team, Booster…) et
-  sonnent parfaitement naturels ; ne les rejette pas par principe. Mais ne les place
-  pas non plus « pour faire moderne » : le critère est l'**usage réel**. En cas de
-  doute, **vérifie (recherche web) que le mot est vraiment employé et idiomatique en
-  allemand dans ce contexte** avant de l'utiliser. S'il l'est, garde-le ; sinon,
-  prends le mot allemand. Et quand un mot allemand propre et élégant dit la même
-  chose aussi bien, il reste préférable — ex. « sans pic ni crash » →
-  **ohne Hoch und Tief**.
+- **Anglicismes : ni réflexe, ni tabou — l'oreille décide.** Beaucoup d'anglicismes
+  font partie de l'allemand du quotidien (Kick, Crash, Look, Snack, Team, Booster,
+  Brain Fog…) et sonnent parfaitement naturels. Deux conditions pour les employer :
+  1) le mot est **réellement utilisé** en allemand dans ce contexte (en cas de
+  doute, **vérifie par une recherche web**) ; 2) il sonne aussi bien ou mieux que
+  l'allemand. **Quand l'anglais est vraiment usité et qu'il sonne mieux, plus fluide,
+  plus digeste, préfère-le** — ex. « brouillard mental » → **Brain Fog** (et non
+  *Gehirnnebel*). À l'inverse, ne place pas d'anglais « pour faire moderne » s'il
+  n'est pas usité, et si un mot allemand dit la même chose aussi bien voire mieux,
+  garde l'allemand — ex. « sans pic ni crash » → **ohne Hoch und Tief**. Le seul
+  juge, c'est ce qui sonne le plus naturel à l'oreille allemande.
 - **Impact d'abord.** Entre deux options, choisis celle qui frappe le plus fort,
   pas celle qui colle le plus au français.
 
