@@ -167,8 +167,17 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
-- **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack**. Préférer la
-  forme courte **Schoko-** (Schokogeschmack) à *Schokoladengeschmack*, plus lourd.
+- **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack / Schokoladengeschmack**.
+  Règle de longueur : l'allemand est souvent plus long que le français. Sur les
+  **formats statiques où la place est comptée** — affiches, visuels, titres,
+  headlines — raccourcir en **Schoko-** (*Schokogeschmack*) pour que ça tienne et
+  reste percutant. Dans un **texte courant / corps de texte** sans contrainte
+  d'espace, la forme longue *Schokoladengeschmack* reste bonne.
+- **Gérer le débordement.** Quand la version allemande déborde par rapport au
+  français sur un format contraint (affiche, packaging, titre, sous-titre), raccourcis
+  sans perdre le sens : formes composées courtes (*Schoko-*, *Bio-*), coupe les mots
+  qui ne travaillent pas, choisis le synonyme le plus bref. La contrainte d'espace
+  prime sur la forme « complète ».
 - **claims vitamines/santé** → garder le **sens** de la formulation UE autorisée
   mais dans une version **simple et orale**, pas le libellé lourd mot à mot.
   Ex. Vitamine C : « …contribue à réduire la fatigue et au fonctionnement normal du
