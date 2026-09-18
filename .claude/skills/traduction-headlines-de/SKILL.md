@@ -96,11 +96,15 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   les gallicismes (« Machen Sie den Unterschied » calqué sur « faites la
   différence ») et le « translationese ». En cas de doute, préfère la formulation
   qu'un natif emploierait spontanément.
-- **Anglicismes avec parcimonie.** L'allemand publicitaire en intègre (surtout
-  jeune/tech/lifestyle), mais seulement là où ils sonnent naturels, pas pour faire
-  « moderne » à tout prix. **Quand un mot allemand propre et élégant existe, il
-  prime sur l'anglicisme.** Ex. « sans pic ni crash » → **ohne Hoch und Tief**
-  (préféré) plutôt que *ohne Kick, ohne Crash*.
+- **Anglicismes : ni réflexe, ni tabou — vérifier.** Beaucoup d'anglicismes font
+  partie de l'allemand du quotidien (Kick, Crash, Look, Snack, Team, Booster…) et
+  sonnent parfaitement naturels ; ne les rejette pas par principe. Mais ne les place
+  pas non plus « pour faire moderne » : le critère est l'**usage réel**. En cas de
+  doute, **vérifie (recherche web) que le mot est vraiment employé et idiomatique en
+  allemand dans ce contexte** avant de l'utiliser. S'il l'est, garde-le ; sinon,
+  prends le mot allemand. Et quand un mot allemand propre et élégant dit la même
+  chose aussi bien, il reste préférable — ex. « sans pic ni crash » →
+  **ohne Hoch und Tief**.
 - **Impact d'abord.** Entre deux options, choisis celle qui frappe le plus fort,
   pas celle qui colle le plus au français.
 
