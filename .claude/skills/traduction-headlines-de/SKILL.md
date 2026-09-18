@@ -174,6 +174,8 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **avaler / ingurgiter (du sucre, etc.)** → **gegessen** (« hat schon so viel Zucker
+  gegessen wie… »). Éviter le trop familier *intus haben* : rester oral mais clair.
 - **principe(s) actif(s) / actifs** → **Wirkstoffe**. (Choix de marque validé : c'est
   plus direct et percutant que *aktive Inhaltsstoffe*. À garder même si *Wirkstoff*
   connote le médicament — préférence assumée côté marque.)
