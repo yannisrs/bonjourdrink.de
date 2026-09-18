@@ -100,6 +100,18 @@ correction de l'utilisateur.
   jamais le « Sie » de politesse.
 - **recettes** (gamme de boissons/parfums) → **Sorten**. Sonne authentique ;
   éviter *Rezepte*, trop littéral.
+- **l'enfant** (référence neutre au genre) → toujours **dein Kind**. Ne jamais
+  utiliser *es* pour désigner l'enfant : correct grammaticalement mais pas naturel.
+- **satisfait ou remboursé** → **Geld-zurück-Garantie**.
+- **Formulé en France** → **Entwickelt in Frankreich** ; **Fabriqué en France** →
+  **Hergestellt in Frankreich**.
+- **Tout traduire, y compris les indications hors-texte.** Les libellés de format
+  et de mise en page (« Grille », « Bloc texte », « Bandeau », « Cartouche gauche
+  (rouge) », « Légende », etc.) et les didascalies décrivant le visuel doivent
+  aussi passer en allemand — pas seulement le texte affiché à l'écran. Exemples :
+  Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
+  (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
+  (terme usuel dans les briefs allemands) · CTA reste CTA.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
