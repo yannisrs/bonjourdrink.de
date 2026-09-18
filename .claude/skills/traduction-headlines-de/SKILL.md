@@ -167,6 +167,14 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
+- **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack**. Préférer la
+  forme courte **Schoko-** (Schokogeschmack) à *Schokoladengeschmack*, plus lourd.
+- **claims vitamines/santé** → garder le **sens** de la formulation UE autorisée
+  mais dans une version **simple et orale**, pas le libellé lourd mot à mot.
+  Ex. Vitamine C : « …contribue à réduire la fatigue et au fonctionnement normal du
+  système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
+  (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
+  Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
 - **brouillard mental** → **Brain Fog**. L'anglicisme est le terme réellement
   employé en allemand (wellness, réseaux) ; éviter le calque *Gehirnnebel*. En
   version soft/conforme : *für einen klaren Kopf*.
