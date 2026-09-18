@@ -174,6 +174,12 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **principe(s) actif(s) / actifs** → **Wirkstoffe**. (Choix de marque validé : c'est
+  plus direct et percutant que *aktive Inhaltsstoffe*. À garder même si *Wirkstoff*
+  connote le médicament — préférence assumée côté marque.)
+- **compléments (alimentaires)** → **Supplements** (anglicisme courant et vivant
+  dans le wellness allemand ; *Nahrungsergänzungsmittel* est lourd).
+- **substitut de café** → **Kaffee-Ersatz**.
 - **brouillard mental** → **Brain Fog**. L'anglicisme est le terme réellement
   employé en allemand (wellness, réseaux) ; éviter le calque *Gehirnnebel*. En
   version soft/conforme : *für einen klaren Kopf*.
