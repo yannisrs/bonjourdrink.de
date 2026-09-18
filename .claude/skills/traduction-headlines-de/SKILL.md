@@ -45,8 +45,11 @@ réécris. Éloigne-toi du texte source autant qu'il le faut : ce qui compte, c'
 
 Ce skill sert avant tout à adapter des **concepts publicitaires courts pour la
 marque Bonjour** (gammes CORE, adultes, et KIDS, enfants — boissons/petit-déjeuner,
-chocolat chaud sans sucre ajouté). Les textes arrivent typiquement sous ces formes,
-souvent mélangées dans une même version :
+chocolat chaud sans sucre ajouté). Les formes ci-dessous sont **fréquentes mais pas
+exhaustives** : ce ne sont que des exemples typiques. Attends-toi à tout autre
+format de copy publicitaire ou marketing (spot TV, script UGC, page produit, e-mail,
+carrousel, script vidéo long, packaging…) et applique les mêmes principes. Les
+textes arrivent souvent sous ces formes, parfois mélangées dans une même version :
 
 - **Headline / titre** en tête, suivi de sous-lignes.
 - **Didascalies visuelles entre crochets** décrivant l'image ou le format
