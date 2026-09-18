@@ -245,8 +245,8 @@ allemand idiomatique.
 
 **Exemple 2 — headline, promesse produit**
 Input : « Le goût qui change tout. »
-Mauvais (littéral et mou) : « Der Geschmack, der alles verändert. »
-Bon : « Ein Schluck. Alles anders. » — plus court, plus fort, ça claque.
+Bon : « Der Geschmack, der alles verändert. » — fidèle et fort, ça fonctionne.
+Encore plus punchy si le format le demande : « Ein Schluck. Alles anders. »
 
 **Exemple 3 — CTA / accroche courte**
 Input : « Faites le plein de peps ! »
