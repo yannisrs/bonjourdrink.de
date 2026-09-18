@@ -98,7 +98,9 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   qu'un natif emploierait spontanément.
 - **Anglicismes avec parcimonie.** L'allemand publicitaire en intègre (surtout
   jeune/tech/lifestyle), mais seulement là où ils sonnent naturels, pas pour faire
-  « moderne » à tout prix.
+  « moderne » à tout prix. **Quand un mot allemand propre et élégant existe, il
+  prime sur l'anglicisme.** Ex. « sans pic ni crash » → **ohne Hoch und Tief**
+  (préféré) plutôt que *ohne Kick, ohne Crash*.
 - **Impact d'abord.** Entre deux options, choisis celle qui frappe le plus fort,
   pas celle qui colle le plus au français.
 
