@@ -150,6 +150,12 @@ Exemples validés à prendre comme boussole de ton :
 Chaque fois que tu hésites entre une formulation « propre » et une formulation plus
 courte et plus vivante, choisis la vivante.
 
+**Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
+promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
+neutre — sans jamais alourdir. Exemple : « drei Viertel der Packung » →
+« drei Viertel der **ganzen** Packung » : le mot en plus fait ressortir le chiffre
+choc, et ça reste parfaitement oral.
+
 ## Exemples
 
 **Exemple 1 — slogan, jeu de mots à réinventer**
