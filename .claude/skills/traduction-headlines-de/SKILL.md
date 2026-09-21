@@ -158,6 +158,14 @@ Au-delà de la langue, une bonne pub est efficace au niveau du concept. Ce sont 
   meilleurs angles (Zuckertief, « du fais de ton mieux ») viennent de là.
 - **Un élément qui reste en tête.** Un hook, un twist, une question retournée — une
   idée mémorable.
+- **Être sympathique, pas juste informatif.** Une pub qui ne fait que débiter un
+  message produit ennuyeux ne reste pas en tête. C'est comme les gens qu'on
+  rencontre : on ne retient que ceux qui amusent, font un trait d'esprit ou sont
+  chaleureux. Une formulation drôle/chaleureuse fait sourire → le message n'entre
+  pas qu'en surface, il touche le cœur → sympathie pour la marque → engagement plus
+  long → plus d'effet à l'achat. Donc : glisser du sourire, de la complicité, un
+  trait d'esprit — le ton amical est un vrai levier de mémorisation et de vente, pas
+  un supplément décoratif.
 - **Ironie = risque de malentendu.** Une accroche ironique (qui dit le contraire de
   ce qu'elle veut faire comprendre) peut être prise au premier degré et se retourner
   — comme une blague ironique mal comprise par SMS. Préférer une accroche drôle
