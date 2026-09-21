@@ -274,6 +274,13 @@ Exemple : « Dein Morgen hat das Gegenteil verdient » (participe final, on atte
 chute) → **« Dein Morgen verdient das Gegenteil »** (verbe tôt, l'idée arrive
 d'un coup).
 
+**Éviter au maximum les relatives** (`was`, `der/die/das`, `den`, `dem`…), surtout en
+headline. Ces subordonnées rejettent le verbe à la fin et cassent l'impact — on
+attend la chute qui ne vient pas. Reformule en **phrase principale directe, verbe
+tôt**. Exemple : « Das, was sie morgens trinken seit dem Schulstart » (relative en
+`was`, verbe au milieu, ça dangle) → **« Das trinkt dein Kind jetzt jeden Morgen. »**
+(+ « seit dem Schulstart » en rappel). Phrase simple et frontale > relative élégante.
+
 **Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
 promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
 neutre — sans jamais alourdir. Exemple : « drei Viertel der Packung » →
