@@ -373,6 +373,9 @@ correction de l'utilisateur.
   attention : *die Wechseljahre* est pluriel → *schlagen/stressen*, pas *stresst*).
 - **verbe nominalisé = majuscule** : *zum ausprobieren* → **zum Ausprobieren**,
   *beim Aufwachen*, *das Ausprobieren*… (piège d'orthographe fréquent dans les CTA).
+- **conflit / dispute / embrouille (du matin)** → **Streit** (courant) ou **Zoff**
+  (familier, complice, bonne chute : « Der Morgen ohne Zoff. »). Éviter *Konflikte*,
+  trop formel.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
