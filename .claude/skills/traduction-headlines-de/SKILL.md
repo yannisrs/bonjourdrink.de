@@ -115,6 +115,38 @@ critères, dans cet ordre :
    termes) ; une seule Kernbotschaft ; ton sympathique. Si la static existe déjà,
    **signaler aussi les fautes/incohérences** (typo, grammaire, nombres).
 
+## Méthode « Vidéo IA » (voix-off / script lu)
+
+**⭐ PRIORITÉ ABSOLUE : sonner naturel À L'ORAL** (le texte est lu, pas seulement vu).
+- Test : lire chaque phrase à voix haute — un natif la dirait-il ainsi, sans buter ?
+- Phrases **courtes, enchaînées** ; ponctuation qui cale les respirations. Éviter les
+  longues subordonnées avec verbe rejeté en fin (illisibles à l'oreille).
+- **Respecter la durée / le souffle de l'original** : l'allemand déborde souvent →
+  resserrer pour ne pas rallonger le montage ; placer les pauses aux mêmes endroits.
+- **Hook dans les 2-3 premières secondes** (la 1ʳᵉ phrase doit accrocher).
+- Registre = la voix du persona : UGC perso (ich, intime) ou VO marque (posée),
+  cohérent du début à la fin.
+- + toutes les règles habituelles (du, `dein Kind` jamais `es`, tournures à
+  surveiller, lexique, chiffres en chiffres, claims tels quels, sources allemandes).
+
+## Méthode « No voice » (texte à l'écran, sans voix)
+
+**⭐ PRIORITÉ ABSOLUE : tout repose sur le texte affiché → ultra lisible, compris en
+une seconde, sans audio.**
+- **Une idée par écran / coupure.** Phrases très courtes ; le lecteur scrolle vite.
+- **Rythme visuel** : coupures nettes, procédé **question + fragment**, listes en
+  fragments (« flacher Bauch, glowy Haut, fit bleiben »), punchlines. Jamais une
+  phrase qui oblige à relire.
+- **Garder la segmentation d'origine** (une ligne/bloc par plan) et traduire les
+  indications de plan (Schnitt, Bild…).
+- Registre souvent **UGC** (chat, témoignage, POV, hot-girl/summer-body) → naturel
+  parlé mais écrit ; sur ce créneau jeune, les anglicismes influenceurs réellement
+  usités sont OK (*Hot Girl Summer, Summer Body, glowy Haut, Hack, fit bleiben,
+  Glow*), avec parcimonie.
+- Éviter plus que partout ce qui est lourd à l'écran (relatives, génitif, mots
+  techniques).
+- + toutes les règles habituelles.
+
 ## Tournures à surveiller (référence rapide)
 
 Réflexe de relecture : dès qu'une de ces structures apparaît (static, novoice, clean,
