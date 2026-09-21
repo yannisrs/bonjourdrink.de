@@ -155,8 +155,14 @@ correction de l'utilisateur.
   jamais le « Sie » de politesse.
 - **recettes** (gamme de boissons/parfums) → **Sorten**. Sonne authentique ;
   éviter *Rezepte*, trop littéral.
-- **l'enfant** (référence neutre au genre) → toujours **dein Kind**. Ne jamais
-  utiliser *es* pour désigner l'enfant : correct grammaticalement mais pas naturel.
+- **l'enfant** (référence neutre au genre) → **toujours `dein Kind`, absolument
+  jamais `es`.** C'est la règle la plus stricte du lexique. Le `es` pour désigner
+  l'enfant est correct grammaticalement mais sonne froid et pas naturel — proscrit
+  **partout**, y compris dans les subordonnées et relatives. Répéter `dein Kind`
+  plutôt que de reprendre par un pronom. Ex. ❌ « die 8 Nährstoffe, die **es** sonst
+  kaum bekommt » → ✅ « die 8 Nährstoffe, die **dein Kind** sonst kaum bekommt ».
+  (Le `es` reste permis quand il renvoie à une chose — le produit, le Getränk — pas
+  à l'enfant.)
 - **satisfait ou remboursé** → **Geld-zurück-Garantie**.
 - **Formulé en France** → **Entwickelt in Frankreich** ; **Fabriqué en France** →
   **Hergestellt in Frankreich**.
