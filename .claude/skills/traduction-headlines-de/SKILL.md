@@ -89,6 +89,10 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
 
 ## Ce qui fait un allemand publicitaire naturel
 
+- **Chiffres toujours en chiffres.** Écris les nombres en chiffres, jamais en toutes
+  lettres : *8 Kapseln* (pas *acht Kapseln*), *30 Sekunden* (pas *dreißig Sekunden*),
+  *2 Zuckerwürfel*, *60 Tage*. C'est plus percutant et plus lisible en pub. Vaut pour
+  tous les formats, y compris les scripts voix-off.
 - **Concision.** Une accroche reste une accroche. L'allemand a tendance à
   s'allonger (mots composés, structures) — résiste. Vise aussi court, voire plus
   court, que l'original. Coupe les mots qui ne travaillent pas.
