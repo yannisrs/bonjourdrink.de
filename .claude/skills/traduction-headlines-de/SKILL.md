@@ -174,6 +174,10 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
+  allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
+- **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
+  vivant et complice pour une accroche.
 - **une bouchée de saumon** → **ein Stück Lachs** (naturel ; *eine Scheibe Lachs*
   possible mais évoque le saumon fumé). Éviter *ein Bissen Lachs*, qui sonne bizarre.
 - **calcium** → **Calcium** (avec C), l'orthographe attendue en contexte
