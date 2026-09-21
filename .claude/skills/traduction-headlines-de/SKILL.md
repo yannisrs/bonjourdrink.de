@@ -240,6 +240,20 @@ Exemples validés à prendre comme boussole de ton :
 Chaque fois que tu hésites entre une formulation « propre » et une formulation plus
 courte et plus vivante, choisis la vivante.
 
+**Naturel avant « malin ».** Le vrai naturel (relatable, comme on parle) bat toujours
+la métaphore trop travaillée qui sonne artificielle. Évite les images « trop
+intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
+*aushandeln wie einen Friedensvertrag*, *und ich bin wieder im Raum* — ça sonne
+écrit, pas vécu. Préfère la chute simple et vraie : *und ich bin wenigstens
+ansprechbar*, *jeden Morgen Theater um den Kakao*, *und der Kopf ist wieder klar*.
+Test : est-ce qu'une vraie personne dirait ça à un ami, ou est-ce que ça sent le
+copywriter ? Si ça sent le copywriter, réécris plus simple.
+
+**Même registre pour KIDS et CORE.** Dans les deux cas, ce sont des adultes qui
+lisent. Le ton complice, drôle et relatable (style « …_alltag » : observation du
+quotidien + chute + hashtag) vaut pour les deux gammes — ne rends pas le CORE plus
+« pro/froid » que le KIDS.
+
 **Headline = groupe nominal, pas phrase.** Pour un titre ou une headline, préfère un
 groupe nominal court et frappant à une phrase complète. Évite surtout les structures
 où le verbe tombe en fin de proposition (subordonnées) : en allemand, ce verbe final
