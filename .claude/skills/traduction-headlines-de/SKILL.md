@@ -185,6 +185,13 @@ correction de l'utilisateur.
   kaum bekommt » → ✅ « die 8 Nährstoffe, die **dein Kind** sonst kaum bekommt ».
   (Le `es` reste permis quand il renvoie à une chose — le produit, le Getränk — pas
   à l'enfant.)
+  **Ordre des reprises :** la **première mention** de l'enfant se fait toujours par
+  un nom — `mein Kind`, `mein Sohn`, `meine Tochter` (ou `dein Kind`) — jamais
+  d'emblée par un pronom. Ensuite seulement, on peut reprendre par **`er` / `sie`**
+  (selon le genre) dans la suite du texte. Ne jamais ouvrir une phrase/un témoignage
+  directement sur `Er…` / `Sie…` sans avoir présenté l'enfant, et jamais `es` pour
+  l'enfant. Ex. ❌ « Er war nach seiner Schale völlig aufgedreht » → ✅ « Mein Sohn
+  war nach seiner Schale völlig aufgedreht… Das hat **er** seitdem nicht mehr. »
 - **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
   reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
   **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
