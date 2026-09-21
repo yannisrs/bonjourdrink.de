@@ -118,6 +118,11 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   n'est pas usité, et si un mot allemand dit la même chose aussi bien voire mieux,
   garde l'allemand — ex. « sans pic ni crash » → **ohne Hoch und Tief**. Le seul
   juge, c'est ce qui sonne le plus naturel à l'oreille allemande.
+  Attention aux **faux amis d'usage** : tous les anglicismes ne sont pas passés dans
+  l'allemand courant. Ex. **`serious`** (adjectif) n'est PAS vraiment dit en allemand
+  → préférer `legit` (lui, courant chez les jeunes), `seriös`, `echt` ou `das meint
+  er/sie ernst`. En cas de doute, vérifier l'usage réel (recherche) avant d'employer
+  un anglicisme.
 - **Impact d'abord.** Entre deux options, choisis celle qui frappe le plus fort,
   pas celle qui colle le plus au français.
 
