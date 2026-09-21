@@ -66,6 +66,13 @@ Garde toujours cette structure et ces sauts de ligne dans ta sortie : tu livres 
 même maquette, en allemand. Le ton de marque est complice, direct, jamais
 moralisateur — on informe et on donne envie, on ne culpabilise pas.
 
+**Toutes les règles et tout le lexique de ce skill s'appliquent à TOUS les formats,
+sans exception** : static, voix-off / VO (« novoice »), clean, UGC, page produit,
+e-mail, carrousel, packaging, script long, etc. Le format change la mise en forme,
+jamais les principes (naturel oral, tutoiement, `dein Kind` jamais `es`, pas de
+relatives lourdes, sources allemandes, lexique de marque…). Applique-les partout de
+la même façon.
+
 ## Le principe de base
 
 Traduis l'**intention**, pas les mots. Pour chaque texte, demande-toi :
