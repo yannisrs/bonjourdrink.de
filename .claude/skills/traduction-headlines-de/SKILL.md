@@ -294,6 +294,11 @@ attend la chute qui ne vient pas. Reformule en **phrase principale directe, verb
 tôt**. Exemple : « Das, was sie morgens trinken seit dem Schulstart » (relative en
 `was`, verbe au milieu, ça dangle) → **« Das trinkt dein Kind jetzt jeden Morgen. »**
 (+ « seit dem Schulstart » en rappel). Phrase simple et frontale > relative élégante.
+Cette chasse aux relatives vaut **partout** — headlines, sous-titres, taglines,
+corps de texte. Réflexe systématique : par ex. « Die 8 Vitamine und Mineralstoffe,
+die dein Kind braucht » → **« Die 8 Vitamine und Mineralstoffe für dein Kind »**
+(un complément prépositionnel remplace la relative). Ne garder une relative que si
+aucune reformulation naturelle n'existe et qu'elle reste courte.
 
 **Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
 promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
