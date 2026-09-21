@@ -73,6 +73,48 @@ jamais les principes (naturel oral, tutoiement, `dein Kind` jamais `es`, pas de
 relatives lourdes, sources allemandes, lexique de marque…). Applique-les partout de
 la même façon.
 
+## Méthode « Traduire une static »
+
+Quand il est demandé de **traduire une static** (format récurrent), appliquer ces
+critères, dans cet ordre :
+
+1. **Périmètre & maquette.** Transcréer (jamais mot-à-mot) et **tout traduire** :
+   headline, sous-titres, callouts/badges, bandeau, CTA, mentions **et** les
+   indications de format (Titel, Banner, Callout…). Garder la **même structure et les
+   mêmes sauts de ligne**. Une seule version par élément.
+
+2. **⭐ PRIORITÉ ABSOLUE — naturel & structure.** C'est le critère qui prime sur tous
+   les autres. Le texte doit sonner écrit par un natif et être compris **au premier
+   coup d'œil**. Headlines = **groupe nominal court / phrase principale directe,
+   verbe tôt**. Passer chaque ligne au crible des **tournures à surveiller** (voir
+   plus bas) : relatives (`was/der/dessen`), génitif lourd, verbe rejeté en fin,
+   Konjunktiv II lourd, connecteurs formels, calques, tournures « tirées par les
+   cheveux ». Au moindre doute de raideur : réécrire plus simple, quitte à
+   périphraser. **Une static qui sonne traduite est ratée, même si tout le reste est
+   juste.**
+
+3. **Registre & adresse.** `du` (ou `ihr` si vous pluriel/collectif) ; enfant =
+   `dein Kind`, jamais `es`, première mention par un nom puis `er/sie` ; registre
+   selon la cible (UGC/jeune = influenceurs actuels ; 40+/santé = chaleureux, pas de
+   slang) ; anglicismes seulement s'ils sont réellement usités, avec parcimonie.
+
+4. **Chiffres, orthographe, format.** Chiffres toujours en chiffres ; format allemand
+   (`2.700`, `4,8`, `30.000`, `-54 %`) ; heures en `Uhr` ; composés avec traits
+   d'union ; majuscule des noms nominalisés (`zum Ausprobieren`) ; `Vitamin`
+   (singulier), `Calcium`, `ß/SS`.
+
+5. **Lexique de marque** appliqué d'office (Schale, `ohne Zucker`/`zuckerfrei`,
+   `8 wichtige Nährstoffe`, Packung, Sorten, naschen, Heißhunger, Zuckertief,
+   Schulstart, Milchaufschäumer, Wirkstoffe…).
+
+6. **Claims & sources.** Allégations santé **laissées telles quelles** (ne pas
+   censurer) — signaler en une ligne si vérif utile. Chiffres/stats officiels →
+   source allemande ou rester vague, et signaler à vérifier.
+
+7. **Cohérence & efficacité.** Cohérence cross-série (même CTA, même mg, mêmes
+   termes) ; une seule Kernbotschaft ; ton sympathique. Si la static existe déjà,
+   **signaler aussi les fautes/incohérences** (typo, grammaire, nombres).
+
 ## Tournures à surveiller (référence rapide)
 
 Réflexe de relecture : dès qu'une de ces structures apparaît (static, novoice, clean,
