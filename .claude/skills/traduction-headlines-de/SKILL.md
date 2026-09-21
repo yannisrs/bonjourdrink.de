@@ -159,10 +159,20 @@ correction de l'utilisateur.
 - **Bannir `Zuckerzusatz` / `kein Zuckerzusatz`** (trop lourd) → **`ohne Zucker`**
   (phrase) ou **`zuckerfrei`** (label). Ex. « Endlich kein Zuckerzusatz » →
   **« Endlich ohne Zucker »**.
-- **Claims vitamines — formulations sûres.** Éviter les verbes qui surpromettent :
-  *Vitamin C stärkt die Abwehrkräfte* → **Vitamin C für die Abwehrkräfte** ;
-  *Vitamin B12 für das Gehirn* (non autorisé) → **Vitamin B12 für die Nerven**
-  (le système nerveux / la fatigue sont les claims B12 validés).
+- **Claims vitamines — registre court « pub visuelle ».** Sur un visuel, ne jamais
+  reprendre le libellé officiel lourd (*trägt zur Verringerung von Müdigkeit und
+  Ermüdung bei*, *wird für ein normales Wachstum … benötigt*, *trägt zu einem
+  normalen Energiestoffwechsel bei*…) : c'est illisible et pas vendeur. Garder le
+  **sens** mais en formule **courte et orale**. Registre validé :
+  - Vitamin C → **hilft gegen Müdigkeit** (et non *trägt zur Verringerung…*)
+  - Vitamin C (immunité) → **für die Abwehrkräfte** (pas *stärkt*)
+  - Vitamin D → **für starke Knochen im Wachstum** (pas *gesundes/normales Wachstum…*)
+  - Vitamin K/K2 → **für starke Knochen**
+  - Vitamin B12 → **für die Nerven** ou **für den Energiestoffwechsel** (pas *für das
+    Gehirn*)
+  - Vitamin E → **schützt die Zellen**
+  Le libellé enregistré reste juridiquement le plus sûr : le doser selon le support
+  (texte long/légal vs visuel), mais sur une pub visuelle, la version courte prime.
 - **sans sucre ajouté / aucun sucre ajouté** → **zuckerfrei** ou **ohne Zucker**
   selon le contexte, jamais *ohne Zuckerzusatz* (trop lourd). Alterner :
   - **ohne Zucker** dans une phrase entière, quand on parle concrètement (langage
