@@ -192,6 +192,10 @@ correction de l'utilisateur.
   directement sur `Er…` / `Sie…` sans avoir présenté l'enfant, et jamais `es` pour
   l'enfant. Ex. ❌ « Er war nach seiner Schale völlig aufgedreht » → ✅ « Mein Sohn
   war nach seiner Schale völlig aufgedreht… Das hat **er** seitdem nicht mehr. »
+- **signature / formule de politesse — éviter les calques.** « En espérant que ça
+  aide » → **Wir hoffen, das hilft.** (pas *In der Hoffnung, dass das hilft*, calque).
+  Signer **Euer Bonjour-Team** (chaleureux) plutôt que *Das Bonjour-Team*, en cohérence
+  avec le `ihr/euch`.
 - **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
   reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
   **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
@@ -346,6 +350,13 @@ corps de texte. Réflexe systématique : par ex. « Die 8 Vitamine und Mineralst
 die dein Kind braucht » → **« Die 8 Vitamine und Mineralstoffe für dein Kind »**
 (un complément prépositionnel remplace la relative). Ne garder une relative que si
 aucune reformulation naturelle n'existe et qu'elle reste courte.
+Cas le plus grave : la **relative imbriquée** (type `…, dessen erste Zutat Zucker
+ist, …`) dans une phrase qui empile en plus une infinitive et le verbe en fin —
+illisible en une passe. **Toujours casser en 2-3 phrases courtes.** Ex. « Wir
+wussten, dass Kakaopulver, dessen erste Zutat Zucker ist, durch einen Kakao ohne
+Zucker zu ersetzen, eine echte Veränderung ist » → **« Wir wussten, dass das eine
+echte Umstellung ist: Bei den meisten Kakaopulvern ist Zucker die erste Zutat. Wir
+ersetzen ihn durch einen Kakao ganz ohne Zucker. »**
 
 **Appuie le point clé.** Repère l'argument central du message (le prix, le sucre, la
 promesse…) et renforce-le avec un petit intensificateur naturel plutôt que de rester
