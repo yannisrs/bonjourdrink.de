@@ -412,6 +412,10 @@ correction de l'utilisateur.
 - **brouillard mental** → **Brain Fog**. L'anglicisme est le terme réellement
   employé en allemand (wellness, réseaux) ; éviter le calque *Gehirnnebel*. En
   version soft/conforme : *für einen klaren Kopf*.
+- **cartonner / tout déchirer** → **rocken** (« ich rocke den Tag ») ou plus posé
+  **bei mir läuft's**.
+- **grignoter entre les repas** → **zwischendurch naschen** ; *grignotage entre repas*
+  → **zwischendurch**.
 - **faire un écart** (alimentaire, se faire un petit plaisir « interdit ») →
   **naschen**. C'est l'équivalent idiomatique allemand du grignotage-plaisir ;
   éviter les calques type *einen Ausrutscher machen*.
