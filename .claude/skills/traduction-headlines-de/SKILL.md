@@ -363,6 +363,10 @@ correction de l'utilisateur.
   *Durchhänger* (coup de barre) ; *der Kopf im Nebel* (tête dans le brouillard,
   préféré à *Brain Fog* pour ce registre adulte). Vocab : ovaires → **Eierstöcke**,
   mauve (plante) → **Malve**.
+- **ça stresse / pèse sur le ventre** → **auf den Bauch schlagen** (idiome naturel ;
+  attention : *die Wechseljahre* est pluriel → *schlagen/stressen*, pas *stresst*).
+- **verbe nominalisé = majuscule** : *zum ausprobieren* → **zum Ausprobieren**,
+  *beim Aufwachen*, *das Ausprobieren*… (piège d'orthographe fréquent dans les CTA).
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
