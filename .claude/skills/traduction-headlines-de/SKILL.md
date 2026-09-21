@@ -261,6 +261,9 @@ correction de l'utilisateur.
   aide » → **Wir hoffen, das hilft.** (pas *In der Hoffnung, dass das hilft*, calque).
   Signer **Euer Bonjour-Team** (chaleureux) plutôt que *Das Bonjour-Team*, en cohérence
   avec le `ihr/euch`.
+- **échanger / remplacer X par Y** → **X gegen Y tauschen / wechseln** (préposition
+  `gegen`, jamais `mit`). Ex. ❌ « Wechsle die Schale **mit** Bonjour Kids » → ✅
+  « **Tausch die Schale gegen Bonjour Kids** » (ou « Wechsle … gegen … »).
 - **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
   reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
   **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
