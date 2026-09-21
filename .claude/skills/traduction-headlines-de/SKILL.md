@@ -550,6 +550,13 @@ naturel, mais les formes lourdement subjonctives (`käme`, `wäre`, `hätte`,
 `Käme dir nie in den Sinn`…) sonnent livresques/écrites. Préférer une tournure plus
 directe/indicative quand c'est possible.
 
+**Imagé et concret plutôt que technique.** Préférer une formule **imagée, concrète,
+simple** à une tournure technique ou abstraite — c'est plus facile à saisir et plus
+vivant. Ex. `der Hosenknopf geht auf`, `der Bauch wie ein Ballon`, `Theater um den
+Kakao`, `Unruhe im Bauch`, `endlich ein leichter Bauch` > formulations cliniques
+(`Verdauungsbeschwerden`, `Ballaststoffzufuhr`…). Quand tu peux dire la chose par une
+image du quotidien, fais-le.
+
 **Naturel avant « malin ».** Le vrai naturel (relatable, comme on parle) bat toujours
 la métaphore trop travaillée qui sonne artificielle. Évite les images « trop
 intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
