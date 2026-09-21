@@ -136,8 +136,8 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
 
 ## Principes d'efficacité (concept)
 
-Au-delà de la langue, une bonne pub est efficace au niveau du concept. À garder en
-tête pour chaque texte :
+Au-delà de la langue, une bonne pub est efficace au niveau du concept. Ce sont des
+**consignes générales à essayer de suivre** (pas des cases à cocher rigides) :
 
 - **Une seule Kernbotschaft, comprise au premier coup d'œil.** Un message central,
   saisi en une fraction de seconde (vital en social ads). Si le lecteur doit
@@ -162,13 +162,6 @@ tête pour chaque texte :
 Le design fait partie de l'idée (contraste, hiérarchie, lisibilité mobile) : ce
 n'est pas le rôle de ce skill (copy/langue), mais garde en tête que le texte doit
 fonctionner **en un seul regard**.
-
-### Checklist avant de livrer une pub
-- Le message est-il compris **au premier coup d'œil** ?
-- Y a-t-il **une** idée centrale claire (pas trois) ?
-- Un **élément qui accroche** et reste en tête ?
-- La marque est-elle reconnaissable **même sans logo** (le ton) ?
-- Ai-je eu **le courage de couper** le superflu ?
 
 ## Format de réponse
 
