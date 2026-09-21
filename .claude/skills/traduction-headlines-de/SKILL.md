@@ -206,6 +206,15 @@ correction de l'utilisateur.
 - **Bannir `Zuckerzusatz` / `kein Zuckerzusatz`** (trop lourd) → **`ohne Zucker`**
   (phrase) ou **`zuckerfrei`** (label). Ex. « Endlich kein Zuckerzusatz » →
   **« Endlich ohne Zucker »**.
+- **Allégations santé : les laisser telles quelles par défaut.** Ne PAS retirer ni
+  réécrire une allégation santé (cortisol, digestion, immunité, humeur, etc.) de ta
+  propre initiative pour « conformité ». Reproduire/transcréer le message comme il
+  est donné — la vérification de conformité (règlement UE, HWG…) est une étape que
+  l'utilisateur fait plus tard, au cas par cas. Tu peux, si c'est utile, **signaler
+  en une seule ligne** qu'un claim mériterait vérification, mais sans l'imposer ni
+  proposer une version « aseptisée » non demandée. (Le travail de transcréation —
+  langue, ton, structure — s'applique normalement ; c'est seulement le *contenu* du
+  claim qu'on ne censure pas.)
 - **Claims vitamines — registre court « pub visuelle ».** Sur un visuel, ne jamais
   reprendre le libellé officiel lourd (*trägt zur Verringerung von Müdigkeit und
   Ermüdung bei*, *wird für ein normales Wachstum … benötigt*, *trägt zu einem
