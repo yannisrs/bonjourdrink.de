@@ -134,6 +134,42 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
    percutant que l'original ? Est-ce que ça garde la promesse et la personnalité de
    la marque ?
 
+## Principes d'efficacité (concept)
+
+Au-delà de la langue, une bonne pub est efficace au niveau du concept. À garder en
+tête pour chaque texte :
+
+- **Une seule Kernbotschaft, comprise au premier coup d'œil.** Un message central,
+  saisi en une fraction de seconde (vital en social ads). Si le lecteur doit
+  réfléchir pour comprendre, c'est raté.
+- **Emotion + Klarheit ensemble.** Toucher un ressenti *et* délivrer un message net
+  — ni émotion floue, ni info froide.
+- **Le courage de couper (Mut zum Weglassen).** Enlever tout ce qui ne sert pas le
+  message. Reduktion statt Reizüberflutung. Prolonge la règle concision / anti-
+  « tiré par les cheveux ».
+- **Zéro formule générique.** Bannir le passe-partout (« Innovativ. Einfach.
+  Digital. » = ça ne dit rien). Toujours concret et spécifique : chiffre, bénéfice
+  réel, insight.
+- **Reconnaissable même sans logo.** Le ton Bonjour (complice, direct, `du`, anti-
+  sucre, honnête) doit être identifiable même logo caché. Renforce « même registre
+  partout ».
+- **Partir de l'humain, pas du format (vom Menschen her denken).** Écrire depuis ce
+  qui préoccupe vraiment le parent/l'adulte (l'insight), pas depuis le gabarit. Nos
+  meilleurs angles (Zuckertief, « du fais de ton mieux ») viennent de là.
+- **Un élément qui reste en tête.** Un hook, un twist, une question retournée — une
+  idée mémorable.
+
+Le design fait partie de l'idée (contraste, hiérarchie, lisibilité mobile) : ce
+n'est pas le rôle de ce skill (copy/langue), mais garde en tête que le texte doit
+fonctionner **en un seul regard**.
+
+### Checklist avant de livrer une pub
+- Le message est-il compris **au premier coup d'œil** ?
+- Y a-t-il **une** idée centrale claire (pas trois) ?
+- Un **élément qui accroche** et reste en tête ?
+- La marque est-elle reconnaissable **même sans logo** (le ton) ?
+- Ai-je eu **le courage de couper** le superflu ?
+
 ## Format de réponse
 
 Donne **une seule version allemande** — celle que tu juges la meilleure. C'est le
