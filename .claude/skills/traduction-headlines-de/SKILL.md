@@ -374,8 +374,13 @@ correction de l'utilisateur.
 - **faire un écart** (alimentaire, se faire un petit plaisir « interdit ») →
   **naschen**. C'est l'équivalent idiomatique allemand du grignotage-plaisir ;
   éviter les calques type *einen Ausrutscher machen*.
-- **la rentrée** (scolaire) → **Schulstart** (ou *Schulanfang*). Ne pas traduire
-  par *Rückkehr* ou autre calque.
+- **la rentrée** (scolaire) → **Schulstart** (ou *Schulanfang* pour « rentrée des
+  classes »). Ne pas traduire par *Rückkehr* ou autre calque. *spécial rentrée* →
+  **Schulstart-Special** ou **Schulstart-Aktion** ; *kit de rentrée* → **Schulstart-Set**.
+- **mousseur (à lait, électrique)** → **(elektrischer) Milchaufschäumer**.
+- **cuillère doseuse** → **Dosierlöffel**. **kit / coffret** → **Set**.
+- **offert / inclus** → **gratis** / **inklusive** ; *sur tout le site* → **auf alles**
+  (ou *auf das ganze Sortiment*).
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
