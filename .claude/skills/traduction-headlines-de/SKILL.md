@@ -316,6 +316,25 @@ correction de l'utilisateur.
   Tasse* → **Tasse am Morgen** ; *Schluss mit dem Jammern* → **Schluss mit der
   schlechten Laune am Morgen** / **Schluss mit dem Morgentheater**. Registre posé :
   la forme adjectivale passe ; registre oral/UGC : la version prépositionnelle.
+- **Anglicismes de référence pour Bonjour** (réellement usités en DE, à piocher avec
+  parcimonie — 1-2 par pub max, jamais en rafale, et vérifier qu'ils sont encore
+  actuels) :
+  - Énergie/focus : *Kick, Energy-Kick, Booster / boosten, Brain Fog, Fokus, Clean
+    Energy / clean, Crash (ohne Crash), Gamechanger, Flow, No-Brainer, Upgrade,
+    Mindset, on point*
+  - Matin/routine : *Morning Routine, Ritual, Daily Ritual, Reset (Morgen-Reset),
+    Self-Care*
+  - Wellness/produit : *Pilzkaffee, Adaptogene, Superfood, Balance, Glow / Glow-up*
+    (⚠️ *Detox, Immunboost, Gut Health* = connotation santé → claim)
+  - Sans sucre/food : *Snack, Guilty Pleasure, Cheat Day* (préférer l'allemand :
+    Cravings → **Heißhunger**, sugar-free → **zuckerfrei**)
+  - Kids/parents : *Kids, Snack, Elternhack / Mama-Hack, Gamechanger, Booster für die
+    Schule*
+  - Offre/CTA : *Deal, Bundle / Set, Sale, Must-have, Bestseller, Limited, shoppen*
+    (préférer l'allemand : free → **Gratis**, sold out → **ausverkauft**)
+  - Social/UGC : *POV, Hack / Life Hack, Trend / trending, viral, lowkey, vibe /
+    viben, legit, safe*
+  Quand l'allemand dit la chose aussi bien, garder l'allemand.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
