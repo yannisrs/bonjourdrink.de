@@ -272,6 +272,10 @@ correction de l'utilisateur.
   - **zuckerfrei** quand ce sont des mots qui s'enchaînent — bandeaux, listes,
     headlines, énumérations : « **Zuckerfrei** · 8 Nährstoffe · Hergestellt in
     Frankreich ».
+  Même « sans sucre **ajouté** » → écrire simplement **ohne Zucker** (ne pas alourdir
+  avec *ohne zugesetzten Zucker*).
+- **nutriments essentiels** → **wichtige Nährstoffe** (préféré à *essenzielle
+  Nährstoffe*). Toujours **8 wichtige Nährstoffe** pour la cohérence de la gamme.
 - **Toujours tutoyer (du).** Jamais de « Sie », même si l'original français
   vouvoie : un « vous » de politesse (une seule personne) devient **du** en
   allemand. Exception : si le « vous » français est un **vous pluriel** (on
