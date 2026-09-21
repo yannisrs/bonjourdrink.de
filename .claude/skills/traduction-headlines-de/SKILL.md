@@ -202,6 +202,13 @@ correction de l'utilisateur.
   système immunitaire » → **Hilft gegen Müdigkeit und unterstützt das Immunsystem**
   (plutôt que le pesant *Trägt zur Verringerung von Müdigkeit und Ermüdung…bei*).
   Prudence avec *stark/stärkt* (va au-delà du claim autorisé « normale Funktion »).
+- **adjectifs « guindés » vs tournure orale — adapter au registre.** Beaucoup
+  d'adjectifs allemands corrects sonnent trop posés en pub grand public ; préférer
+  souvent la tournure prépositionnelle plus orale, mais **choisir selon le contexte
+  et le registre du support** (les deux peuvent être justes). Ex. *morgendliche
+  Tasse* → **Tasse am Morgen** ; *Schluss mit dem Jammern* → **Schluss mit der
+  schlechten Laune am Morgen** / **Schluss mit dem Morgentheater**. Registre posé :
+  la forme adjectivale passe ; registre oral/UGC : la version prépositionnelle.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
