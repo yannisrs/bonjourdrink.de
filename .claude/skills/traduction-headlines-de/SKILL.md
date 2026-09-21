@@ -123,6 +123,15 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   → préférer `legit` (lui, courant chez les jeunes), `seriös`, `echt` ou `das meint
   er/sie ernst`. En cas de doute, vérifier l'usage réel (recherche) avant d'employer
   un anglicisme.
+- **Registre jeune = langage des influenceurs/YouTubeurs allemands actuels.** Pour
+  une pub à ton jeune (UGC, story, social), calibrer le vocabulaire sur la
+  **Jugendsprache d'aujourd'hui** telle que la parlent les créateurs allemands — pas
+  un anglais « scolaire » ni des mots démodés. Termes actuellement courants (à
+  utiliser avec parcimonie et à jour) : *legit, safe (= sûr/carrément), random,
+  lowkey, cringe, vibe/viben, gönn dir, krass, mega, clean, Gamechanger, Hack,
+  Booster, on point, Digga/Alter (adresse)*. Les tendances bougent vite : si un mot
+  « à la mode » est cité, **vérifier qu'il est encore actuel** avant de l'employer,
+  et ne pas en abuser (un ou deux suffisent, sinon ça sonne forcé).
 - **Impact d'abord.** Entre deux options, choisis celle qui frappe le plus fort,
   pas celle qui colle le plus au français.
 
