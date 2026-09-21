@@ -197,6 +197,9 @@ correction de l'utilisateur.
   vivant et complice pour une accroche.
 - **une bouchée de saumon** → **ein Stück Lachs** (naturel ; *eine Scheibe Lachs*
   possible mais évoque le saumon fumé). Éviter *ein Bissen Lachs*, qui sonne bizarre.
+- **vitamine C / D / E / K2 / B12…** → **Vitamin C**, **Vitamin D**, etc. (singulier
+  allemand). Ne jamais écrire *Vitamine C* : « Vitamine » est le français (et le
+  pluriel allemand) ; au singulier, sur une étiquette/label, c'est **Vitamin**.
 - **calcium** → **Calcium** (avec C), l'orthographe attendue en contexte
   nutritionnel/étiquette, pas *Kalzium*.
 - **premier ingrédient / 1er ingrédient** → **die erste Zutat** (« Zucker ist die
