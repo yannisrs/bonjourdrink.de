@@ -185,6 +185,11 @@ correction de l'utilisateur.
   kaum bekommt » → ✅ « die 8 Nährstoffe, die **dein Kind** sonst kaum bekommt ».
   (Le `es` reste permis quand il renvoie à une chose — le produit, le Getränk — pas
   à l'enfant.)
+- **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
+  reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
+  **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
+  Ist er weg, dauert der Nachschub.** » (`Bestände` = stocks, mais préférer `Vorrat`
+  dans l'accroche).
 - **satisfait ou remboursé** → **Geld-zurück-Garantie**.
 - **Formulé en France** → **Entwickelt in Frankreich** ; **Fabriqué en France** →
   **Hergestellt in Frankreich**.
