@@ -113,6 +113,8 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
   lettres : *8 Kapseln* (pas *acht Kapseln*), *30 Sekunden* (pas *dreißig Sekunden*),
   *2 Zuckerwürfel*, *60 Tage*. C'est plus percutant et plus lisible en pub. Vaut pour
   tous les formats, y compris les scripts voix-off.
+- **Format de l'heure : `17 Uhr`, pas `17h`.** La notation `17h` / `8h` est
+  française/anglaise. En allemand : **`17 Uhr`**, `8 Uhr`, `4 Uhr` (ou `17:00`).
 - **Concision.** Une accroche reste une accroche. L'allemand a tendance à
   s'allonger (mots composés, structures) — résiste. Vise aussi court, voire plus
   court, que l'original. Coupe les mots qui ne travaillent pas.
