@@ -202,6 +202,14 @@ correction de l'utilisateur.
   directement sur `Er…` / `Sie…` sans avoir présenté l'enfant, et jamais `es` pour
   l'enfant. Ex. ❌ « Er war nach seiner Schale völlig aufgedreht » → ✅ « Mein Sohn
   war nach seiner Schale völlig aufgedreht… Das hat **er** seitdem nicht mehr. »
+- **Connecteurs : préférer l'oral au formel.** `dennoch` (et autres connecteurs
+  guindés) sonne écrit/compliqué → préférer **`und trotzdem`** ou **`aber`**. Idem,
+  privilégier les enchaînements simples aux mots de liaison lourds.
+- **`einen Blick werfen auf` → tournure directe au présent.** Le calque « jeter un
+  œil sur » alourdit (verbe `geworfen` rejeté loin). Préférer **`schauen auf`** /
+  **`sich etw. genauer ansehen`**. Ex. « Dennoch habt ihr nie einen Blick auf ihre
+  Schale Nesquik geworfen » → **« Aber die Nesquik-Schale am Morgen? Die schaut ihr
+  euch nie genauer an. »**
 - **signature / formule de politesse — éviter les calques.** « En espérant que ça
   aide » → **Wir hoffen, das hilft.** (pas *In der Hoffnung, dass das hilft*, calque).
   Signer **Euer Bonjour-Team** (chaleureux) plutôt que *Das Bonjour-Team*, en cohérence
