@@ -276,6 +276,12 @@ Exemples validés à prendre comme boussole de ton :
 Chaque fois que tu hésites entre une formulation « propre » et une formulation plus
 courte et plus vivante, choisis la vivante.
 
+**Question + réponse en fragment.** Un procédé très efficace, surtout en UGC/social :
+poser une mini-question puis répondre par un fragment sec, plutôt qu'une longue
+phrase avec particule rejetée. Ex. « Und trotzdem kam das Energietief vor der Schule
+zurück » (plat, `kam … zurück`) → **« Und vor der Schule? Wieder das Energietief. »**
+(rythme, oralité, ça claque).
+
 **Naturel avant « malin ».** Le vrai naturel (relatable, comme on parle) bat toujours
 la métaphore trop travaillée qui sonne artificielle. Évite les images « trop
 intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
