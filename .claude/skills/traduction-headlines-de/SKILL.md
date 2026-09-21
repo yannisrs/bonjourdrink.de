@@ -248,6 +248,12 @@ intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
 ansprechbar*, *jeden Morgen Theater um den Kakao*, *und der Kopf ist wieder klar*.
 Test : est-ce qu'une vraie personne dirait ça à un ami, ou est-ce que ça sent le
 copywriter ? Si ça sent le copywriter, réécris plus simple.
+Dès qu'une expression, une image ou un mot composé paraît **« tiré par les cheveux »**
+(forcé, alambiqué, pas spontané), abandonne-le et cherche une **alternative naturelle
+et facile** — quitte à **périphraser** (dire la chose en quelques mots simples)
+plutôt que de caser à tout prix une trouvaille. La fluidité et la facilité de lecture
+priment toujours sur l'astuce. Mieux vaut une formulation simple qui coule qu'une
+formule « originale » qui accroche l'oreille au mauvais sens.
 
 **Même registre pour KIDS et CORE.** Dans les deux cas, ce sont des adultes qui
 lisent. Le ton complice, drôle et relatable (style « …_alltag » : observation du
