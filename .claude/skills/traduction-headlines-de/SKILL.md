@@ -158,6 +158,12 @@ Au-delà de la langue, une bonne pub est efficace au niveau du concept. Ce sont 
   meilleurs angles (Zuckertief, « du fais de ton mieux ») viennent de là.
 - **Un élément qui reste en tête.** Un hook, un twist, une question retournée — une
   idée mémorable.
+- **D'abord l'attention (Hingucker), ensuite le message.** Un support doit d'abord
+  se faire remarquer pour pouvoir plaire. Capter l'œil — au besoin par une surprise
+  ou une « irritation » maîtrisée (quelque chose qui cloche juste ce qu'il faut pour
+  qu'on s'arrête) — **puis** délivrer la vraie Botschaft à celui qui s'attarde.
+  L'accroche gagne le regard, le reste transmet le message. Ne jamais avoir un
+  message clair mais zéro raison de s'arrêter.
 - **Ironie = risque de malentendu.** Une accroche ironique (qui dit le contraire de
   ce qu'elle veut faire comprendre) peut être prise au premier degré et se retourner
   — comme une blague ironique mal comprise par SMS. Préférer une accroche drôle
