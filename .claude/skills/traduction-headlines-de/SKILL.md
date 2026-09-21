@@ -197,6 +197,14 @@ correction de l'utilisateur.
   vivant et complice pour une accroche.
 - **une bouchée de saumon** → **ein Stück Lachs** (naturel ; *eine Scheibe Lachs*
   possible mais évoque le saumon fumé). Éviter *ein Bissen Lachs*, qui sonne bizarre.
+- **céréales (du petit-déj, sucrées)** → **Cornflakes** (courant, parlant, bon
+  raccourci ; *Süße Cornflakes* pour l'angle sucre). *Cerealien* correct mais plus
+  neutre/marketing.
+- **Éviter le génitif lourd** (p. ex. *deines Kindes*, *des Morgens*…). Il alourdit
+  et sonne formel. Le remplacer par une **tournure verbale** (« Das süße Frühstück
+  deines Kindes » → **« So süß frühstückt dein Kind »**) ou par un **datif avec
+  `für`** (**« das süße Frühstück für dein Kind »**). Préférer la version verbale
+  quand elle rend le texte plus vivant.
 - **vitamine C / D / E / K2 / B12…** → **Vitamin C**, **Vitamin D**, etc. (singulier
   allemand). Ne jamais écrire *Vitamine C* : « Vitamine » est le français (et le
   pluriel allemand) ; au singulier, sur une étiquette/label, c'est **Vitamin**.
