@@ -335,6 +335,14 @@ correction de l'utilisateur.
   - Social/UGC : *POV, Hack / Life Hack, Trend / trending, viral, lowkey, vibe /
     viben, legit, safe*
   Quand l'allemand dit la chose aussi bien, garder l'allemand.
+- **Registre santé féminine / 40+ (péri-ménopause).** Ton chaleureux, crédible,
+  empathique — PAS de slang jeune. Tournures naturelles validées : *als du denkst*
+  (plus quotidien que *als du ahnst*, littéraire) ; *ticken* = fonctionner/marcher
+  (« Ab 40 tickt dein Körper anders ») ; *kürzertreten* (lever le pied) ; *auf
+  Hochtouren laufen* (à plein régime) ; *schweißgebadet aufwachen* (réveils trempée) ;
+  *Durchhänger* (coup de barre) ; *der Kopf im Nebel* (tête dans le brouillard,
+  préféré à *Brain Fog* pour ce registre adulte). Vocab : ovaires → **Eierstöcke**,
+  mauve (plante) → **Malve**.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
