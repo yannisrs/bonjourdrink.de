@@ -73,6 +73,26 @@ jamais les principes (naturel oral, tutoiement, `dein Kind` jamais `es`, pas de
 relatives lourdes, sources allemandes, lexique de marque…). Applique-les partout de
 la même façon.
 
+## Tournures à surveiller (référence rapide)
+
+Réflexe de relecture : dès qu'une de ces structures apparaît (static, novoice, clean,
+UGC…), la repérer et la reformuler plus fluide. Ce n'est pas une checklist bloquante,
+juste les pièges récurrents — chacun est détaillé plus bas.
+
+- **Konjunktiv II lourd** : `würden wissen` → `wüssten` ; `käme` → indicatif.
+- **Relatives** (`was…`, `der/die/das…`, `dessen…` imbriqué) → phrase principale
+  directe, verbe tôt.
+- **Génitif lourd** : `deines Kindes` → `für dein Kind` ou tournure verbale.
+- **Verbe rejeté en fin** (parfait/participe) : `hat … verdient` → `verdient …`.
+- **Mots techniques/administratifs** : `Ballaststoffzufuhr` → `zu wenig Ballaststoffe`.
+- **Connecteurs formels** : `dennoch` → `und trotzdem` / `aber`.
+- **Calques** : `In der Hoffnung, dass…` → `Wir hoffen, …` ; `einen Blick werfen auf`
+  → présent direct ; `kein Cola` → `keine Cola`.
+- **Faux amis d'usage** : `serious` → `legit` / `echt` (vérifier l'usage réel).
+- **`es` pour l'enfant** : jamais → toujours `dein Kind` ; première mention par un
+  nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`.
+- **Chiffres** : toujours en chiffres (`8`, `30 Sekunden`, `-40 %`).
+
 ## Le principe de base
 
 Traduis l'**intention**, pas les mots. Pour chaque texte, demande-toi :
