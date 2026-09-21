@@ -152,6 +152,17 @@ correction de l'utilisateur.
 
 - **bol** → toujours **Schale**. Jamais *Tasse*, jamais *Schüssel*. C'est le mot le
   plus juste pour un bol de petit-déjeuner (céréales, chocolat).
+- **`Kids` pour alléger le pluriel.** Quand *Kinder / Kindern* alourdit une phrase
+  (datif pluriel lourd, répétitions), utiliser **`Kids`** — anglicisme courant en
+  allemand et cohérent avec la gamme « Bonjour Kids ». La règle du singulier reste
+  intacte : pour parler d'un enfant précis, toujours **`dein Kind`**, jamais `es`.
+- **Bannir `Zuckerzusatz` / `kein Zuckerzusatz`** (trop lourd) → **`ohne Zucker`**
+  (phrase) ou **`zuckerfrei`** (label). Ex. « Endlich kein Zuckerzusatz » →
+  **« Endlich ohne Zucker »**.
+- **Claims vitamines — formulations sûres.** Éviter les verbes qui surpromettent :
+  *Vitamin C stärkt die Abwehrkräfte* → **Vitamin C für die Abwehrkräfte** ;
+  *Vitamin B12 für das Gehirn* (non autorisé) → **Vitamin B12 für die Nerven**
+  (le système nerveux / la fatigue sont les claims B12 validés).
 - **sans sucre ajouté / aucun sucre ajouté** → **zuckerfrei** ou **ohne Zucker**
   selon le contexte, jamais *ohne Zuckerzusatz* (trop lourd). Alterner :
   - **ohne Zucker** dans une phrase entière, quand on parle concrètement (langage
