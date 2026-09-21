@@ -223,6 +223,9 @@ correction de l'utilisateur.
   nutritionnel/étiquette, pas *Kalzium*.
 - **premier ingrédient / 1er ingrédient** → **die erste Zutat** (« Zucker ist die
   erste Zutat »). Éviter *Zutat Nr. 1*, jugé moins bon.
+- **je ne savais plus quoi faire / je n'en pouvais plus** → **ich wusste (einfach)
+  nicht mehr weiter**. Éviter *ich konnte nicht anders* (= « je n'avais pas le
+  choix », contresens dans ce contexte).
 - **avaler / ingurgiter (du sucre, etc.)** → **gegessen** (« hat schon so viel Zucker
   gegessen wie… »). Éviter le trop familier *intus haben* : rester oral mais clair.
 - **principe(s) actif(s) / actifs** → **Wirkstoffe**. (Choix de marque validé : c'est
