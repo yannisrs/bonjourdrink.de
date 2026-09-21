@@ -158,6 +158,16 @@ Au-delà de la langue, une bonne pub est efficace au niveau du concept. Ce sont 
   meilleurs angles (Zuckertief, « du fais de ton mieux ») viennent de là.
 - **Un élément qui reste en tête.** Un hook, un twist, une question retournée — une
   idée mémorable.
+- **Ironie = risque de malentendu.** Une accroche ironique (qui dit le contraire de
+  ce qu'elle veut faire comprendre) peut être prise au premier degré et se retourner
+  — comme une blague ironique mal comprise par SMS. Préférer une accroche drôle
+  **mais qui exclut le malentendu** : elle doit rester juste même lue littéralement.
+  Ex. à éviter : une headline « KRANK » (argot = « cool ») lue au sens propre
+  (« malade »), qui dit alors l'inverse du message.
+- **Adapter la langue au public ET au médium.** Le registre doit coller à qui voit
+  la pub et où. L'argot jeune ne s'emploie que si l'audience du support le partage
+  vraiment ; devant un public large, un mot au sens « codé » (générationnel) tombe à
+  plat ou se retourne. Choisir le niveau de langue en fonction de la cible réelle.
 
 Le design fait partie de l'idée (contraste, hiérarchie, lisibilité mobile) : ce
 n'est pas le rôle de ce skill (copy/langue), mais garde en tête que le texte doit
