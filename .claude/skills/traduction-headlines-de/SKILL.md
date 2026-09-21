@@ -315,6 +315,17 @@ phrase avec particule rejetée. Ex. « Und trotzdem kam das Energietief vor der 
 zurück » (plat, `kam … zurück`) → **« Und vor der Schule? Wieder das Energietief. »**
 (rythme, oralité, ça claque).
 
+**Question rhétorique retournée.** Procédé fort : poser une question dont la réponse
+évidente est « non », puis retourner sur le lecteur. Ex. **« Würdest du deinem Kind
+Cola zum Frühstück geben? Genau das tust du gerade. »** ou la version « boucle » qui
+fait faire le lien au lecteur : **« Cola zum Frühstück? Natürlich nicht. Und der
+Kakao? »**
+
+**Éviter le Konjunktiv II trop marqué.** Un `Würdest du…?` en question rhétorique est
+naturel, mais les formes lourdement subjonctives (`käme`, `wäre`, `hätte`,
+`Käme dir nie in den Sinn`…) sonnent livresques/écrites. Préférer une tournure plus
+directe/indicative quand c'est possible.
+
 **Naturel avant « malin ».** Le vrai naturel (relatable, comme on parle) bat toujours
 la métaphore trop travaillée qui sonne artificielle. Évite les images « trop
 intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
