@@ -505,7 +505,11 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
-- **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack**.
+- **délicieux / savoureux (décrire la boisson)** → **lecker** par défaut (quotidien,
+  oral, complice : `richtig lecker`, `schmeckt einfach lecker`). `köstlich` seulement
+  pour une touche premium/ponctuelle (ex. `köstlicher Schokogeschmack`).
+- **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack** (ou `leckerer
+  Schokogeschmack` selon le registre).
 - **claims vitamines/santé** → garder le **sens** de la formulation UE autorisée
   mais dans une version **simple et orale**, pas le libellé lourd mot à mot.
   Ex. Vitamine C : « …contribue à réduire la fatigue et au fonctionnement normal du
