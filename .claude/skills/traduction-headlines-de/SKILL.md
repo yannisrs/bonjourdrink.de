@@ -186,21 +186,49 @@ juste les pièges récurrents — chacun est détaillé plus bas.
 
 Enchaîner ces étapes pour tout texte à traduire (validé comme méthode de référence) :
 
-1. **Cadrer** : format (static / vidéo IA / no voice…), cible et registre (KIDS →
-   parent en `du` ; 40+/santé → chaleureux ; UGC jeune → influenceur). Ça fixe
-   l'adresse et le ton.
-2. **Comprendre l'intention de chaque bloc, pas les mots** : qu'est-ce que ça veut
-   faire ressentir / dire ? Repérer l'insight réel.
-3. **Repérer les expressions idiomatiques françaises** (`grognons`, `raplapla`,
+0. **Cadrer le format.** Plusieurs formats possibles — **static, no voice, clean,
+   vidéo IA** — et à l'intérieur plusieurs éléments à traduire **tous** : headline,
+   sous-titre, callouts/badges, bandeau, CTA, mentions, indications de plan. Repérer
+   le format et lister les éléments avant de commencer.
+
+1. **⭐ Comprendre l'intention — l'étape la plus importante, tout se joue ici.**
+   Qu'est-ce que le texte veut faire ressentir / dire ? Quel est **l'insight réel** ?
+   Être **super efficace** ici : une fois l'intention et l'émotion bien saisies, la
+   bonne formulation allemande suit ; si on rate cette étape, tout le reste est bancal.
+   Audience : **globalement les parents** (même pour une pub **Bonjour Kids** — on
+   parle au parent, en `du`, de `dein Kind`), et aussi des pubs **Bonjour Core**
+   (adultes). Cadrer le registre selon la cible dès ici.
+
+2. **Repérer les expressions idiomatiques françaises** (`grognons`, `raplapla`,
    `passer à la trappe`…) et leur trouver un **équivalent imagé allemand**, jamais un
-   calque. Garder le rythme/parallélisme de l'original.
-4. **S'éloigner de la structure française** : casser la phrase figée (`Pour… il leur
-   faut :`) et reconstruire en phrase directe, verbe tôt (`Für… braucht dein Kind:`).
-5. **Appliquer les règles de fond** : `du`/`dein Kind` (jamais `es`), claims en
-   registre court (sens gardé), imagé > technique, chiffres en chiffres, lexique de
-   marque, orthographe.
-6. **Relire à l'oral + "premier coup d'œil"** : chaque ligne se saisit d'un coup, la
-   chute claque, on resserre si ça déborde. Si ça sonne traduit → réécrire.
+   calque ; garder le rythme/parallélisme. **Si tu es bloqué ou pas sûr qu'une
+   tournure se dit vraiment en allemand courant : fais une recherche web** (regarde
+   d'autres pubs / l'usage réel) avant de trancher.
+
+3. **Naturel & structure (priorité absolue).** Casser la structure figée du français,
+   phrase directe, verbe tôt, pas de relatives/génitif lourd. **Une static qui sonne
+   traduite est ratée, même si tout le reste est juste.** Il peut arriver, **en tout
+   dernier recours**, de devoir passer par une structure plus complexe (Konjunktiv,
+   etc.) quand il n'y a pas d'alternative naturelle — mais c'est l'exception, pas le
+   réflexe.
+
+4. **Traduire tout, en gardant la maquette** : chaque élément (y compris indications
+   de format), même structure et sauts de ligne, une seule version par élément.
+
+5. **Appliquer les règles de fond** : `du`/`dein Kind` (jamais `es`), imagé >
+   technique, claims en registre court, chiffres en chiffres + format allemand,
+   lexique de marque, orthographe. **À faire évoluer en continu** : la langue bouge
+   (surtout le registre jeune/anglicismes) → rester à jour, vérifier l'usage actuel.
+
+6. **Claims & sources.** Allégations santé **laissées telles quelles** (l'utilisateur
+   vérifiera la conformité). Dès qu'une **source allemande** existe (DGE, RKI, OMS…),
+   **toujours la mettre en avant** — c'est important pour le public allemand ; sinon
+   rester vague, jamais de chiffre étranger recyclé.
+
+7. **Relire au moins deux fois (crucial).** Comme toute traduction : double relecture,
+   à voix haute + « premier coup d'œil ». Vérifier que **tout** est respecté (naturel,
+   règles, lexique, chiffres, cohérence), que la chute claque, resserrer si ça déborde.
+   Si ça sonne traduit → réécrire.
 
 ## Le principe de base
 
