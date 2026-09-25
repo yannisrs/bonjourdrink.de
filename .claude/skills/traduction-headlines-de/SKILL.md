@@ -504,6 +504,11 @@ correction de l'utilisateur.
   trop formel.
 - **grognon (le matin)** → **muffelig** (ou plus fort : *grantig*, *mies gelaunt*).
 - **raplapla / à plat / vidé** → **schlapp** (« nachmittags schlapp »).
+- **salle de sport → `im Gym`** (le mot des sportifs en DE ; `Fitnessstudio` correct
+  mais plus neutre ; éviter `Studio` seul, ambigu).
+- **ne pas trouver le sommeil / insomnie** → image concrète **an die Decke starren**
+  (ou *sich hin und herwälzen*). Éviter le cliché *Schäfchen zählen*. Tentative
+  d'endormissement dans une liste → *Einschlaftee*, *Meditations-App*.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
