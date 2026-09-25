@@ -644,8 +644,11 @@ correction de l'utilisateur.
 - **offert / inclus** → **gratis** / **inklusive** ; *sur tout le site* → **auf alles**
   (ou *auf das ganze Sortiment*).
 - **sachet(s)** → toujours **Packung(en)**.
-- **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
-  tournure plus familière/UGC).
+- **boîte(s) de gélules / compléments** → **choisir selon le contexte/registre** :
+  `Kapseldosen` / `Döschen` (familier, UGC), `Nahrungsergänzung` (neutre, sobre),
+  `Dosen`, ou l'image `Pillen und Pulver` (headline plus imagée). Ex. « Ein Regal
+  voller Nahrungsergänzung. Und eine einzige Tasse. » S'adapter au ton du support
+  plutôt que de figer un seul mot.
 - **Statistiques externes → équivalent allemand, sinon vague.** La règle vaut pour
   les **stats / chiffres / pourcentages sur la population** (« X % des enfants
   mangent trop de sucre / pas assez de fibres », seuils recommandés, normes) : elles
