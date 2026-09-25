@@ -492,6 +492,13 @@ correction de l'utilisateur.
 - **légumes refusés / que l'enfant ne mange pas** → image concrète : **das Gemüse
   bleibt auf dem Teller / bleibt liegen** (plutôt que *verschmähtes/verweigertes
   Gemüse*, trop écrit).
+- **c'est la guerre / la bataille (le matin)** → **jeden Morgen Theater** (le meilleur),
+  ou **Drama** / **Stress** (les trois valables, à alterner). Éviter le calque `Krieg`,
+  trop français.
+- **négocier, supplier** (avec l'enfant) → **diskutieren, überreden** (éviter le trop
+  fort *verhandeln, betteln*).
+- **ça lui/leur passera (avec l'âge)** → **das geht mit der Zeit vorbei** (ou *das
+  gibt sich mit der Zeit*, *das legt sich*).
 - **conflit / dispute / embrouille (du matin)** → **Streit** (courant) ou **Zoff**
   (familier, complice, bonne chute : « Der Morgen ohne Zoff. »). Éviter *Konflikte*,
   trop formel.
