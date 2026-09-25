@@ -584,6 +584,13 @@ correction de l'utilisateur.
 - **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
   « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
 - **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
+- **se braquer / résister / ne pas se laisser faire** (enfant) → tourner en positif
+  **Kein Theater** (éviter *sich wehren*, négatif et dramatique).
+- **clean / sain (produit)** → concret et allemand : **nichts Unnötiges drin** /
+  **ohne Zusatzstoffe** (l'anglicisme *clean* est du jargon peu crédible dans la
+  bouche d'un parent — préférer l'image concrète).
+- **tout le monde gagne / win-win** → **Beide glücklich** / **Win-win** (éviter le
+  calque *alle gewinnen*).
 - **tient ses promesses / à la hauteur** → **hält, was es verspricht** (idiome fixe ;
   ne pas dire *taugt was es verspricht*).
 - **ça déraille / rien ne va / ça coince** → **es läuft nicht rund** (« bei mir läuft
