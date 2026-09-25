@@ -504,12 +504,16 @@ correction de l'utilisateur.
 - **échanger / remplacer X par Y** → **X gegen Y tauschen / wechseln** (préposition
   `gegen`, jamais `mit`). Ex. ❌ « Wechsle die Schale **mit** Bonjour Kids » → ✅
   « **Tausch die Schale gegen Bonjour Kids** » (ou « Wechsle … gegen … »).
-- **changer/troquer son repas, son petit-déj (habitude)** → **`umstellen`**, bien
-  plus naturel que `tauschen` quand il s'agit de changer une habitude alimentaire.
-  Ex. « elle a juste changé son petit-déj » → **« Sie hat einfach ihr Frühstück
-  umgestellt »** (❌ *ihr Frühstück getauscht*). Pour « remplacer son petit-déj
-  sucré PAR Bonjour », préférer une tournure vivante : **« statt deinem süßen
-  Frühstück Bonjour trinken »** plutôt que *das Frühstück gegen Bonjour tauschen*.
+- **changer son repas, son petit-déj (habitude)** → **`ändern`** par défaut, jamais
+  `tauschen`. `ändern` est léger, quotidien : elle a juste changé un truc, sans en
+  faire une affaire — c'est le ton qu'on veut quand on minimise l'effort (« pas de
+  volonté, pas de régime »). Ex. « elle a juste changé son petit-déj » → **« Sie hat
+  einfach ihr Frühstück geändert »** (❌ *getauscht*, ❌ *umgestellt* ici).
+  Réserver **`umstellen`** au cas où on parle vraiment de **reconvertir toute son
+  alimentation** (*Ernährung umstellen*) — il traîne un côté « projet/effort » qu'on
+  évite sinon. Pour « remplacer son petit-déj sucré PAR Bonjour », préférer une
+  tournure vivante : **« statt deinem süßen Frühstück Bonjour trinken »** plutôt que
+  *das Frühstück gegen Bonjour tauschen*.
 - **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
   reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
   **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
