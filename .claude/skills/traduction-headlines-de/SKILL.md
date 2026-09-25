@@ -409,6 +409,9 @@ correction de l'utilisateur.
   directement sur `Er…` / `Sie…` sans avoir présenté l'enfant, et jamais `es` pour
   l'enfant. Ex. ❌ « Er war nach seiner Schale völlig aufgedreht » → ✅ « Mein Sohn
   war nach seiner Schale völlig aufgedreht… Das hat **er** seitdem nicht mehr. »
+  **Répéter `dein Kind`** plutôt qu'une tournure impersonnelle bancale pour l'éviter :
+  `Dafür braucht's:` sonne mal → **`Dafür braucht dein Kind:`**. La répétition de
+  `dein Kind` est préférable.
 - **Connecteurs : préférer l'oral au formel.** `dennoch` (et autres connecteurs
   guindés) sonne écrit/compliqué → préférer **`und trotzdem`** ou **`aber`**. Idem,
   privilégier les enchaînements simples aux mots de liaison lourds.
