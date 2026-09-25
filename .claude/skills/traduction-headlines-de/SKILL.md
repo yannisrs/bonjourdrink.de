@@ -565,6 +565,11 @@ correction de l'utilisateur.
 - **ne pas trouver le sommeil / insomnie** → image concrète **an die Decke starren**
   (ou *sich hin und herwälzen*). Éviter le cliché *Schäfchen zählen*. Tentative
   d'endormissement dans une liste → *Einschlaftee*, *Meditations-App*.
+- **ventre qui gargouille / crie famine** → **Magenknurren** (un seul mot, imagé ;
+  « Schluss mit dem Magenknurren »). Ne pas fabriquer une relative bancale type
+  *Magen, der knurrt*.
+- **CTA `-XX % Rabatt auf deine erste Bestellung`** : style de marque **accepté** — ne
+  pas signaler la redondance `-XX %` + `Rabatt`, laisser tel quel.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
