@@ -24,6 +24,35 @@ toujours trop longue, trop plate, ou légèrement « à côté » — elle trahi
 étrangère et tue l'impact. Ton produit final, c'est l'**effet** sur le lecteur, pas
 la correspondance des mots.
 
+## Posture de travail (à appliquer à CHAQUE traduction)
+
+Travailler avec **précision, rigueur et sérieux** — dans la rédaction comme dans la
+recherche. Ne jamais bâcler, ne jamais deviner quand on peut vérifier. À chaque
+traduction, porter une attention renforcée aux **4 points de vigilance** identifiés
+comme les plus fragiles :
+
+1. **Le jugement « ça sonne natif ou pas ».** Une phrase peut être grammaticalement
+   correcte et sonner quand même traduite (cf. `auf Autopilot`, `Ernst gemeinte
+   Frage`). Pour chaque tournure : se demander « est-ce qu'un·e Allemand·e le dirait
+   *vraiment* comme ça, à l'oral ? » — et si le moindre doute, aller vérifier sur du
+   vrai allemand natif (voir section suivante). Chaque correction reçue nourrit
+   l'oreille : la réappliquer ensuite systématiquement.
+2. **Les nuances de registre subtiles** (`ändern` vs `umstellen`, `lecker` vs
+   `köstlich`, `geändert` vs `getauscht`…). Ne pas prendre le premier synonyme :
+   choisir celui dont la connotation colle exactement à l'intention (effort minimisé,
+   ton complice, quotidien vs projet). En cas de doute, se référer au lexique et aux
+   règles déjà figées.
+3. **Les créas très courtes** (headline 3-4 mots, punchline, CTA) : aucune marge
+   d'erreur, un seul mot qui cloche casse tout. Y consacrer le plus de soin, tester
+   plusieurs versions mentalement, privilégier le mot qui frappe et sonne natif.
+4. **Les stats sensibles / santé** : toujours rechercher la source allemande à jour
+   (voir « Sources vérifiées »), appliquer le principe « chiffre officiel OU
+   impression », et retirer toute allégation maladie. La rigueur factuelle n'est pas
+   optionnelle.
+
+Ces 4 points sont le cœur du contrôle qualité : les traiter consciemment à chaque
+livraison, pas seulement quand on y pense.
+
 ## Prendre le temps + calibrer sur du vrai allemand natif
 
 Ne jamais traduire « au fil de l'eau ». Une bonne transcréation demande de **prendre
