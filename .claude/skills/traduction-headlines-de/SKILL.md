@@ -644,18 +644,20 @@ correction de l'utilisateur.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
-- **Tout chiffre / stat / info officielle repose sur une source allemande.** C'est
-  non négociable. Ne jamais reprendre tel quel un chiffre ou une référence français
-  (p. ex. le seuil **ANSES**) dans une pub destinée au public allemand : il ne lui
-  parle pas, sonne « traduit », et peut être faux pour ce marché. Pour chaque
-  chiffre, norme, seuil ou source cité, faire une **recherche web** et s'appuyer sur
-  l'autorité reconnue en Allemagne — p. ex. la **DGE** (Deutsche Gesellschaft für
-  Ernährung), le **BfR**, ou l'**OMS/WHO** — puis vérifier la valeur exacte pour le
-  marché allemand avant de l'écrire.
-  **Si aucune source allemande fiable n'est trouvée : rester vague.** Reformuler
-  sans chiffre ni référence officielle (« deutlich weniger Zucker », « nur ein
-  Bruchteil davon ») plutôt que d'inventer, d'estimer ou de recycler un chiffre
-  étranger. Un message vague mais juste vaut mieux qu'un chiffre officiel faux.
+- **Tout chiffre / stat / référence / institution → équivalent allemand.** C'est
+  non négociable. Ne jamais reprendre tel quel une référence, une norme, un seuil ou
+  une **institution française** (p. ex. **ANSES**, **COFRAC**) dans une pub destinée
+  au public allemand : ça ne lui parle pas, sonne « traduit », et peut être faux/inconnu
+  pour ce marché. Pour chaque élément cité, faire une **recherche web** et trouver
+  **l'équivalent allemand reconnu** — chiffres/normes : **DGE**, **BfR**, **RKI**,
+  **OMS/WHO** ; accréditation labo : **DAkkS** (l'équivalent allemand du COFRAC) ; etc.
+  — puis vérifier la valeur exacte pour le marché allemand.
+  **Si aucun équivalent allemand fiable n'existe : rester vague, sans citer
+  précisément.** Reformuler sans chiffre ni référence nommée (« deutlich weniger
+  Zucker », « von einem unabhängigen, akkreditierten Labor geprüft », « nur ein
+  Bruchteil davon ») plutôt que d'inventer, d'estimer ou de recycler une source
+  étrangère. Un message vague mais juste vaut mieux qu'une référence précise fausse
+  ou hors marché.
 - **Digestibilité avant tout.** Les phrases doivent être fluides, légères et
   sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
   En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
