@@ -418,9 +418,10 @@ correction de l'utilisateur.
   (datif pluriel lourd, répétitions), utiliser **`Kids`** — anglicisme courant en
   allemand et cohérent avec la gamme « Bonjour Kids ». La règle du singulier reste
   intacte : pour parler d'un enfant précis, toujours **`dein Kind`**, jamais `es`.
-- **Bannir `Zuckerzusatz` / `kein Zuckerzusatz`** (trop lourd) → **`ohne Zucker`**
-  (phrase) ou **`zuckerfrei`** (label). Ex. « Endlich kein Zuckerzusatz » →
-  **« Endlich ohne Zucker »**.
+- **Bannir `Zuckerzusatz` / `kein Zuckerzusatz` ET `zugesetzter Zucker`** (trop
+  lourds, jargon d'étiquette) → **`ohne Zucker`** (phrase) ou **`zuckerfrei`**
+  (label). Ex. « Endlich kein Zuckerzusatz » → **« Endlich ohne Zucker »** ;
+  ❌ « Null zugesetzten Zucker » → ✅ **« Ganz ohne Zucker »**.
 - **Exception : les allégations de MALADIE se retirent pour l'Allemagne.** Toute
   référence à une **maladie nommée** (Morbus Crohn, Reizdarm, Migräne, Diabetes…) ou
   toute promesse de soigner/soulager une maladie est **interdite** pour un aliment en
@@ -503,6 +504,12 @@ correction de l'utilisateur.
 - **échanger / remplacer X par Y** → **X gegen Y tauschen / wechseln** (préposition
   `gegen`, jamais `mit`). Ex. ❌ « Wechsle die Schale **mit** Bonjour Kids » → ✅
   « **Tausch die Schale gegen Bonjour Kids** » (ou « Wechsle … gegen … »).
+- **changer/troquer son repas, son petit-déj (habitude)** → **`umstellen`**, bien
+  plus naturel que `tauschen` quand il s'agit de changer une habitude alimentaire.
+  Ex. « elle a juste changé son petit-déj » → **« Sie hat einfach ihr Frühstück
+  umgestellt »** (❌ *ihr Frühstück getauscht*). Pour « remplacer son petit-déj
+  sucré PAR Bonjour », préférer une tournure vivante : **« statt deinem süßen
+  Frühstück Bonjour trinken »** plutôt que *das Frühstück gegen Bonjour tauschen*.
 - **urgence / rareté (stocks)** : `dans la limite des stocks` → **solange der Vorrat
   reicht** ; `réapprovisionnement` → **Nachschub** ; `après, il faut attendre` →
   **dann heißt es warten**. Formule type validée : « **Solange der Vorrat reicht.
