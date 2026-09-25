@@ -726,6 +726,9 @@ correction de l'utilisateur.
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
   vivant et complice pour une accroche.
+- **envie de sucre / on craque pour du sucré** → **`schon wieder was Süßes`** (parlé,
+  naturel). Éviter **`der Griff zum Süßen`** (trop nominal/écrit) et autres tournures
+  substantivées. Rester dans la formulation orale et spontanée.
 - **une bouchée de saumon** → **ein Stück Lachs** (naturel ; *eine Scheibe Lachs*
   possible mais évoque le saumon fumé). Éviter *ein Bissen Lachs*, qui sonne bizarre.
 - **céréales (du petit-déj, sucrées)** → **Cornflakes** (courant, parlant, bon
