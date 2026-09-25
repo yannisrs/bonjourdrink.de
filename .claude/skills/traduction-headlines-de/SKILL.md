@@ -644,20 +644,23 @@ correction de l'utilisateur.
 - **sachet(s)** → toujours **Packung(en)**.
 - **boîte(s) de gélules** → **Kapseldosen** (ou le diminutif **Döschen** pour une
   tournure plus familière/UGC).
-- **Tout chiffre / stat / référence / institution → équivalent allemand.** C'est
-  non négociable. Ne jamais reprendre tel quel une référence, une norme, un seuil ou
-  une **institution française** (p. ex. **ANSES**, **COFRAC**) dans une pub destinée
-  au public allemand : ça ne lui parle pas, sonne « traduit », et peut être faux/inconnu
-  pour ce marché. Pour chaque élément cité, faire une **recherche web** et trouver
-  **l'équivalent allemand reconnu** — chiffres/normes : **DGE**, **BfR**, **RKI**,
-  **OMS/WHO** ; accréditation labo : **DAkkS** (l'équivalent allemand du COFRAC) ; etc.
-  — puis vérifier la valeur exacte pour le marché allemand.
-  **Si aucun équivalent allemand fiable n'existe : rester vague, sans citer
-  précisément.** Reformuler sans chiffre ni référence nommée (« deutlich weniger
-  Zucker », « von einem unabhängigen, akkreditierten Labor geprüft », « nur ein
-  Bruchteil davon ») plutôt que d'inventer, d'estimer ou de recycler une source
-  étrangère. Un message vague mais juste vaut mieux qu'une référence précise fausse
-  ou hors marché.
+- **Statistiques externes → équivalent allemand, sinon vague.** La règle vaut pour
+  les **stats / chiffres / pourcentages sur la population** (« X % des enfants
+  mangent trop de sucre / pas assez de fibres », seuils recommandés, normes) : elles
+  doivent parler au public allemand. Ne jamais reprendre un chiffre ou une source
+  **français** (p. ex. seuil **ANSES**, étude INCA) tel quel → faire une **recherche
+  web** et prendre l'**équivalent allemand reconnu** (**DGE**, **BfR**, **RKI**,
+  **OMS/WHO**), valeur vérifiée pour l'Allemagne. **Si aucun équivalent fiable
+  n'existe : rester vague, sans citer précisément** (« deutlich weniger Zucker », « nur
+  ein Bruchteil davon ») plutôt qu'inventer ou recycler un chiffre étranger.
+- **Faits sur la marque elle-même → on les garde.** Ce qui décrit **Bonjour** (le
+  labo indépendant qui le produit/teste, « fabriqué en France », les mg par tasse,
+  etc.) est vrai et **reste** — ne pas le « germaniser » ni le rendre vague. Juste le
+  phraser naturellement en laissant tomber le jargon qui ne parle pas au public
+  allemand : ex. `COFRAC-akkreditiertes Labor` → **`von einem unabhängigen Labor in
+  Frankreich geprüft`** (on garde le fait du labo indépendant français, on retire
+  l'acronyme). La distinction : **stat sur les gens = équivalent DE / vague ; fait
+  sur le produit = conservé, juste formulé simplement.**
 - **Digestibilité avant tout.** Les phrases doivent être fluides, légères et
   sonner « langage marketing » allemand — jamais lourdes, techniques ou calquées.
   En cas de doute, allège : coupe, simplifie, garde le mot qui frappe.
