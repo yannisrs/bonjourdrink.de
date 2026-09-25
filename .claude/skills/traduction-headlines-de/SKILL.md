@@ -584,6 +584,8 @@ correction de l'utilisateur.
 - **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
   « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
 - **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
+- **tient ses promesses / à la hauteur** → **hält, was es verspricht** (idiome fixe ;
+  ne pas dire *taugt was es verspricht*).
 - **ça déraille / rien ne va / ça coince** → **es läuft nicht rund** (« bei mir läuft
   morgens nichts rund ») ou l'idiome **der Wurm drin** (« da ist der Wurm drin »).
 - **ventre qui gargouille / crie famine** → **Magenknurren** (un seul mot, imagé ;
@@ -690,6 +692,11 @@ zurück » (plat, `kam … zurück`) → **« Und vor der Schule? Wieder das Ene
 Cola zum Frühstück geben? Genau das tust du gerade. »** ou la version « boucle » qui
 fait faire le lien au lecteur : **« Cola zum Frühstück? Natürlich nicht. Und der
 Kakao? »**
+
+**Éviter aussi le Konjunktiv I / les impératifs figés type `Sei …`.** `Sei gewarnt`,
+`Man nehme…` etc. sonnent livresques/complexes → préférer une tournure directe
+(`Wir haben gewarnt: …`). Les headlines surtout doivent être **ultra précises,
+orales et justes** : c'est là que tout se joue, aucune approximation.
 
 **Éviter le Konjunktiv II trop marqué.** Un `Würdest du…?` en question rhétorique est
 naturel, mais les formes lourdement subjonctives (`käme`, `wäre`, `hätte`,
