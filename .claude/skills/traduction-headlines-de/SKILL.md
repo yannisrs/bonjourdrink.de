@@ -720,6 +720,14 @@ correction de l'utilisateur.
   **OMS/WHO**), valeur vérifiée pour l'Allemagne. **Si aucun équivalent fiable
   n'existe : rester vague, sans citer précisément** (« deutlich weniger Zucker », « nur
   ein Bruchteil davon ») plutôt qu'inventer ou recycler un chiffre étranger.
+  - **Exemples de stats déjà vérifiées (réutilisables) :**
+    - **Carence en vitamine D chez l'enfant** : source FR/UK (« 1 enfant sur 5 » au
+      UK) → équivalent allemand **RKI / KiGGS ≈ 12,5 %** des enfants et ados carencés
+      (25(OH)D < 30 nmol/l), soit **`fast jedes achte Kind in Deutschland`** (≈ 1 sur
+      8). Ne jamais reprendre le « 1 sur 5 » britannique.
+    - **Sucre libre chez l'enfant** : DGE ≈ 30–35 g/j max (4–6 ans, 10 % de l'apport
+      énergétique) ; les enfants en consomment ≈ 17–18 % → **`fast doppelt so viel wie
+      empfohlen`**.
 - **Faits sur la marque elle-même → on les garde.** Ce qui décrit **Bonjour** (le
   labo indépendant qui le produit/teste, « fabriqué en France », les mg par tasse,
   etc.) est vrai et **reste** — ne pas le « germaniser » ni le rendre vague. Juste le
