@@ -720,14 +720,29 @@ correction de l'utilisateur.
   **OMS/WHO**), valeur vérifiée pour l'Allemagne. **Si aucun équivalent fiable
   n'existe : rester vague, sans citer précisément** (« deutlich weniger Zucker », « nur
   ein Bruchteil davon ») plutôt qu'inventer ou recycler un chiffre étranger.
-  - **Exemples de stats déjà vérifiées (réutilisables) :**
-    - **Carence en vitamine D chez l'enfant** : source FR/UK (« 1 enfant sur 5 » au
-      UK) → équivalent allemand **RKI / KiGGS ≈ 12,5 %** des enfants et ados carencés
-      (25(OH)D < 30 nmol/l), soit **`fast jedes achte Kind in Deutschland`** (≈ 1 sur
-      8). Ne jamais reprendre le « 1 sur 5 » britannique.
-    - **Sucre libre chez l'enfant** : DGE ≈ 30–35 g/j max (4–6 ans, 10 % de l'apport
-      énergétique) ; les enfants en consomment ≈ 17–18 % → **`fast doppelt so viel wie
-      empfohlen`**.
+
+### Sources vérifiées pour l'Allemagne (réutilisables — mais À RE-VÉRIFIER)
+
+> ⚠️ **Toujours refaire la recherche avant de citer un de ces chiffres.** Les
+> valeurs, les études et les seuils sont mis à jour régulièrement (nouvelles
+> éditions DGE, réanalyses RKI, etc.). Ce tableau est un **point de départ fiable**,
+> pas une dispense de vérification. Ne jamais coller un chiffre d'ici sans avoir
+> reconfirmé la source allemande à jour au moment de la traduction.
+
+| Sujet | Chiffre allemand vérifié | Source | Tournure DE prête |
+|---|---|---|---|
+| **Vitamine D — enfants** | ≈ 12,5 % des enfants/ados carencés (25(OH)D < 30 nmol/l) → ≈ 1 sur 8 | RKI / KiGGS | `fast jedes achte Kind in Deutschland bekommt zu wenig Vitamin D` |
+| **Sucre libre — enfants** | DGE max ≈ 30–35 g/j (4–6 ans, 10 % de l'énergie) ; conso réelle ≈ 17–18 % de l'énergie | DGE | `fast doppelt so viel Zucker wie empfohlen` |
+| **Sucre libre — adultes** | DGE : max 10 % de l'énergie ≈ **50 g/j** ; conso réelle ≈ **90–100 g/j** | DGE (Konsensuspapier Zucker) | `fast doppelt so viel wie empfohlen` / `rund 90 g am Tag – fast das Doppelte` |
+| **Fibres (Ballaststoffe) — adultes** | DGE recommande **≥ 30 g/j** ; conso réelle ≈ **18–19 g/j** (NVS II) | DGE / NVS II | `kaum jemand in Deutschland kommt auf die empfohlenen 30 g Ballaststoffe` |
+| **Sucre en morceaux (unité)** | Würfelzucker DE ≈ **3 g** (≠ morceau FR ≈ 6 g) — recalculer toute conversion en « morceaux/cubes » | usage DE | ex. « 10 morceaux » FR ≈ 60 g ≈ **20 Stück Würfelzucker** |
+
+**Autorités allemandes de référence** (à interroger dans cet ordre selon le sujet) :
+**DGE** (nutrition/apports), **RKI** (santé population/enfants), **BfR** (risques
+alimentaires), **BZfE** (éducation nutritionnelle), **DAkkS** (accréditation labo),
+**OMS/WHO** (international). Éviter comme sources publiables : ANSES, INCA, INSERM
+(françaises), NHS (britannique) — utiles pour trouver la donnée, jamais à citer pour
+le public allemand.
 - **Faits sur la marque elle-même → on les garde.** Ce qui décrit **Bonjour** (le
   labo indépendant qui le produit/teste, « fabriqué en France », les mg par tasse,
   etc.) est vrai et **reste** — ne pas le « germaniser » ni le rendre vague. Juste le
