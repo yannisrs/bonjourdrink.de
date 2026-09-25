@@ -210,7 +210,11 @@ juste les pièges récurrents — chacun est détaillé plus bas.
 - **Mots techniques/administratifs** : `Ballaststoffzufuhr` → `zu wenig Ballaststoffe`.
 - **Connecteurs formels** : `dennoch` → `und trotzdem` / `aber`.
 - **Calques** : `In der Hoffnung, dass…` → `Wir hoffen, …` ; `einen Blick werfen auf`
-  → présent direct ; `kein Cola` → `keine Cola`.
+  → présent direct ; `kein Cola` → `keine Cola` ; `auf Autopilot` (calque EN, pas
+  idiomatique) → `aus reiner Gewohnheit` / `ohne groß nachzudenken`.
+- **Ouvreurs UGC/Reddit** : `Genuinely asking` → `Mal ehrlich gefragt:` (pas *Ernst
+  gemeinte Frage*, qui sonne étiquette). `kept putting it off` → `ewig vor mir
+  hergeschoben` (idiome *etwas vor sich herschieben*, > *aufgeschoben*).
 - **Faux amis d'usage** : `serious` → `legit` / `echt` (vérifier l'usage réel).
 - **`es` pour l'enfant** : jamais → toujours `dein Kind` ; première mention par un
   nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`.
