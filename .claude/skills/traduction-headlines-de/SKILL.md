@@ -757,6 +757,13 @@ Kakao`, `Unruhe im Bauch`, `endlich ein leichter Bauch` > formulations cliniques
 (`Verdauungsbeschwerden`, `Ballaststoffzufuhr`…). Quand tu peux dire la chose par une
 image du quotidien, fais-le.
 
+**Témoignage authentique = relâché MAIS sans faute.** Pour qu'un avis « client » sonne
+vrai, le style parlé/relâché est bon (`hab`, `sind's`, phrases sans `ich` : « Bin nicht
+mehr nervös », « Fühle mich topfit »). Mais la moindre **faute de grammaire ou
+d'orthographe** (`das mit Kaffee hatte` sans `ich`, `grose Fans`, `nehme` une boisson
+au lieu de `trinke`) trahit aussitôt l'IA/la traduction et **tue** la crédibilité —
+l'inverse de l'effet voulu. Donc : oral oui, fautes jamais. Relire d'autant plus.
+
 **Naturel avant « malin ».** Le vrai naturel (relatable, comme on parle) bat toujours
 la métaphore trop travaillée qui sonne artificielle. Évite les images « trop
 intelligentes » qui trahissent l'effort : p. ex. *und der Ladebalken ist voll*,
