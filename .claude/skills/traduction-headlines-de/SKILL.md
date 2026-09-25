@@ -171,6 +171,19 @@ Garde toujours cette structure et ces sauts de ligne dans ta sortie : tu livres 
 même maquette, en allemand. Le ton de marque est complice, direct, jamais
 moralisateur — on informe et on donne envie, on ne culpabilise pas.
 
+**Pas de distinction de langue entre Core (adulte) et Kids.** La voix, le registre et
+le tutoiement sont **les mêmes** pour les deux gammes — inutile d'adapter le style
+selon le produit. (Pour Kids, on parle au parent en `du`, de `dein Kind` ; c'est une
+question de cible, pas de changement de ton.)
+
+**Humour : autorisé, mais seulement s'il est authentique et compris immédiatement.**
+Tu peux ajouter une touche d'humour, à condition qu'un·e Allemand·e le saisisse
+**directement à la lecture**, sans effort ni traduction mentale — un humour qui sonne
+vraiment allemand. Jamais de jeu de mots calqué du français qui ne « prend » pas en
+allemand. Dans ce secteur (food/santé), l'humour reste **plutôt rare** : l'utiliser
+avec parcimonie, jamais forcé. Dans le doute, s'abstenir plutôt que de risquer un
+humour bancal.
+
 **Toutes les règles et tout le lexique de ce skill s'appliquent à TOUS les formats,
 sans exception** : static, voix-off / VO (« novoice »), clean, UGC, page produit,
 e-mail, carrousel, packaging, script long, etc. Le format change la mise en forme,
@@ -489,6 +502,12 @@ correction de l'utilisateur.
   **ne se laissent PAS telles quelles** : les retirer ou reformuler en bien-être
   non médical (ex. « Morbus Crohn und Kaffee? Damit kein Problem » → angle digestion/
   légèreté sans nommer la maladie). Signaler à l'utilisateur qu'on les a retirées.
+- **RÈGLE D'OR ALLÉGATIONS — « on fait les allégations, sauf maladies ».** On garde et
+  on transcrée toutes les allégations santé/fonctionnelles, **y compris celles des
+  actifs et adaptogènes** (cortisol, focus, stress, digestion, immunité, énergie,
+  humeur, champignons/adaptogènes…). Seule exception : les **maladies nommées** (voir
+  ci-dessus), qu'on retire. Ne jamais s'autocensurer sur un actif « parce qu'il
+  n'aurait pas d'allégation UE autorisée » — ce n'est pas ton rôle de trancher ça.
 - **Allégations santé (générales) : les laisser telles quelles par défaut.** Ne PAS retirer ni
   réécrire une allégation santé (cortisol, digestion, immunité, humeur, etc.) de ta
   propre initiative pour « conformité ». Reproduire/transcréer le message comme il
@@ -598,6 +617,10 @@ correction de l'utilisateur.
   pour une touche premium/ponctuelle (ex. `köstlicher Schokogeschmack`).
 - **goût (délicieux) de chocolat** → **köstlicher Schokogeschmack** (ou `leckerer
   Schokogeschmack` selon le registre).
+- **Noms de goûts → toujours en `…geschmack`.** Décrire le goût, pas un nom de recette
+  français. `Schokogeschmack`, `Kaffeegeschmack`, etc. **`Choco Noisette` n'existe
+  plus** — ne pas le reprendre. Rester sur les goûts vus/validés (`Schokogeschmack`,
+  `Kaffeegeschmack`…). Jamais de nom de parfum calqué du français.
 - **claims vitamines/santé** → garder le **sens** de la formulation UE autorisée
   mais dans une version **simple et orale**, pas le libellé lourd mot à mot.
   Ex. Vitamine C : « …contribue à réduire la fatigue et au fonctionnement normal du
@@ -696,6 +719,9 @@ correction de l'utilisateur.
   *Magen, der knurrt*.
 - **CTA `-XX % Rabatt auf deine erste Bestellung`** : style de marque **accepté** — ne
   pas signaler la redondance `-XX %` + `Rabatt`, laisser tel quel.
+- **CTA maison validés** : **`Jetzt sichern`** et **`Jetzt entdecken`** sont les CTA de
+  référence (bons, à privilégier). **`Jetzt testen` : moins bien**, éviter. Garder les
+  CTA courts et directs.
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
