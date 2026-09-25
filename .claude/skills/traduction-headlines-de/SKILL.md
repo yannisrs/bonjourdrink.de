@@ -182,6 +182,26 @@ juste les pièges récurrents — chacun est détaillé plus bas.
   nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`.
 - **Chiffres** : toujours en chiffres (`8`, `30 Sekunden`, `-40 %`).
 
+## Procédé de traduction (à suivre à chaque fois)
+
+Enchaîner ces étapes pour tout texte à traduire (validé comme méthode de référence) :
+
+1. **Cadrer** : format (static / vidéo IA / no voice…), cible et registre (KIDS →
+   parent en `du` ; 40+/santé → chaleureux ; UGC jeune → influenceur). Ça fixe
+   l'adresse et le ton.
+2. **Comprendre l'intention de chaque bloc, pas les mots** : qu'est-ce que ça veut
+   faire ressentir / dire ? Repérer l'insight réel.
+3. **Repérer les expressions idiomatiques françaises** (`grognons`, `raplapla`,
+   `passer à la trappe`…) et leur trouver un **équivalent imagé allemand**, jamais un
+   calque. Garder le rythme/parallélisme de l'original.
+4. **S'éloigner de la structure française** : casser la phrase figée (`Pour… il leur
+   faut :`) et reconstruire en phrase directe, verbe tôt (`Für… braucht dein Kind:`).
+5. **Appliquer les règles de fond** : `du`/`dein Kind` (jamais `es`), claims en
+   registre court (sens gardé), imagé > technique, chiffres en chiffres, lexique de
+   marque, orthographe.
+6. **Relire à l'oral + "premier coup d'œil"** : chaque ligne se saisit d'un coup, la
+   chute claque, on resserre si ça déborde. Si ça sonne traduit → réécrire.
+
 ## Le principe de base
 
 Traduis l'**intention**, pas les mots. Pour chaque texte, demande-toi :
@@ -472,6 +492,8 @@ correction de l'utilisateur.
 - **conflit / dispute / embrouille (du matin)** → **Streit** (courant) ou **Zoff**
   (familier, complice, bonne chute : « Der Morgen ohne Zoff. »). Éviter *Konflikte*,
   trop formel.
+- **grognon (le matin)** → **muffelig** (ou plus fort : *grantig*, *mies gelaunt*).
+- **raplapla / à plat / vidé** → **schlapp** (« nachmittags schlapp »).
 - **coup de pompe / crash de sucre / chute d'énergie** → **Zuckertief** (vrai mot
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
