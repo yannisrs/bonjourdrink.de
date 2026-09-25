@@ -584,9 +584,9 @@ correction de l'utilisateur.
 - **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
   « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
 - **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
-- **enfant difficile / qui chipote (picky eater)** → **mäkeliges Kind** (courant) ou
-  **wählerisches Kind** ; éviter le calque *wählerischer Esser* (« Esser » ne se dit
-  pas pour un enfant).
+- **enfant difficile / qui chipote (picky eater)** → **wählerisches Kind** (garder
+  `wählerisch`, mais sur `Kind`), ou **mäkeliges Kind**. Éviter le calque *wählerischer
+  Esser* (« Esser » ne se dit pas pour un enfant).
 - **se braquer / résister / ne pas se laisser faire** (enfant) → tourner en positif
   **Kein Theater** (éviter *sich wehren*, négatif et dramatique).
 - **clean / sain (produit)** → concret et allemand : **nichts Unnötiges drin** /
