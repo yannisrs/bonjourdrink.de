@@ -681,6 +681,14 @@ correction de l'utilisateur.
   allemand exact quand il existe ; s'il n'existe pas / sources divergentes → rester sur
   un fait solide et vague (`fast doppelt so viel Zucker wie empfohlen`), jamais un
   chiffre étranger recyclé.
+- **Marques : garder si connue en DE, sinon remplacer par l'équivalent allemand connu.**
+  Une marque **internationale, vendue/reconnue en Allemagne sous le même nom → on la
+  garde** (Nesquik, Nutella). Une marque **française ou inconnue en DE → chercher
+  (recherche web) l'équivalent que le public allemand reconnaît** et le mettre à la
+  place — l'exemple doit être *immédiatement* reconnaissable, sinon il tombe à plat
+  (même logique que pour les institutions/stats). Ex. **Tropicana → Hohes C / Granini**
+  (jus), **Miel Pops → Smacks / Honey Pops** (céréales). Toujours vérifier la présence
+  réelle en DE avant de garder ou remplacer, ne jamais supposer.
 - **Localiser les unités.** Recalculer les unités quand elles diffèrent : un
   **Würfelzucker allemand ≈ 3 g**, un **morceau de sucre français ≈ 6 g** → « 10
   morceaux » (FR) = ~60 g = **~20 Stück Würfelzucker** (DE). Idem pour toute mesure
