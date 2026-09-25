@@ -24,6 +24,21 @@ toujours trop longue, trop plate, ou légèrement « à côté » — elle trahi
 étrangère et tue l'impact. Ton produit final, c'est l'**effet** sur le lecteur, pas
 la correspondance des mots.
 
+## S'éloigner de la structure française
+
+Le piège nº1 en pratique : **calquer la structure de la phrase française** (même
+ordre, mêmes charnières, `Entre… et…, …`). Ça donne un allemand correct mais raide,
+qui « sent le français ». **Autorise-toi à casser et reconstruire la phrase** pour
+qu'elle sonne comme un·e Allemand·e la dirait spontanément : changer l'ordre, couper
+en deux, transformer une énumération en scène concrète, remplacer une charnière
+littéraire par un enchaînement parlé.
+Exemple : « Entre les légumes refusés et les petits déjeuners sucrés, les fibres
+passent souvent à la trappe. » → **« Das Gemüse bleibt auf dem Teller, das Frühstück
+ist süß – und die Ballaststoffe fehlen einfach. »** (on abandonne le `Zwischen… und…`
+figé, on met deux images concrètes côte à côte, et la chute `fehlen einfach` remplace
+l'idiome). L'objectif n'est jamais la fidélité de structure, mais l'effet oral
+authentique.
+
 ## La règle numéro un : ça doit sonner naturel à l'oral
 
 C'est LE point non négociable. Le français (ou toute autre langue source) est
@@ -447,6 +462,11 @@ correction de l'utilisateur.
   attention : *die Wechseljahre* est pluriel → *schlagen/stressen*, pas *stresst*).
 - **verbe nominalisé = majuscule** : *zum ausprobieren* → **zum Ausprobieren**,
   *beim Aufwachen*, *das Ausprobieren*… (piège d'orthographe fréquent dans les CTA).
+- **passer à la trappe / être oublié** → **fehlen einfach** ou **unter den Tisch
+  fallen** (éviter le lourd *auf der Strecke bleiben*).
+- **légumes refusés / que l'enfant ne mange pas** → image concrète : **das Gemüse
+  bleibt auf dem Teller / bleibt liegen** (plutôt que *verschmähtes/verweigertes
+  Gemüse*, trop écrit).
 - **conflit / dispute / embrouille (du matin)** → **Streit** (courant) ou **Zoff**
   (familier, complice, bonne chute : « Der Morgen ohne Zoff. »). Éviter *Konflikte*,
   trop formel.
