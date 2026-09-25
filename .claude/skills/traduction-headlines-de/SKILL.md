@@ -39,6 +39,34 @@ figé, on met deux images concrètes côte à côte, et la chute `fehlen einfach
 l'idiome). L'objectif n'est jamais la fidélité de structure, mais l'effet oral
 authentique.
 
+## Expressions idiomatiques FR→DE (règle importante)
+
+Les expressions/images françaises sont un piège majeur. **Règle :**
+1. **Jamais de calque** — une expression idiomatique ne se traduit pas mot à mot ;
+   trouver un **équivalent imagé allemand** qui produit le même effet, quitte à
+   changer l'image.
+2. **Garder le rythme / le parallélisme** de l'original.
+3. **Imagé et concret** plutôt qu'abstrait/technique.
+4. **Vérifier l'usage réel** (recherche web) si tu n'es pas sûr qu'une tournure — ou
+   un anglicisme — se dit vraiment en allemand courant.
+5. **Structure complexe (Konjunktiv…) en tout dernier recours** seulement.
+
+Équivalents validés (à enrichir au fil du temps) :
+- raplapla / à plat / vidé → **schlapp**
+- grognon (le matin) → **muffelig** (ou *grantig*, *mies gelaunt*)
+- passer à la trappe / être oublié → **fehlen einfach** / **unter den Tisch fallen**
+- c'est la guerre / la bataille (le matin) → **jeden Morgen Theater** / *Drama* / *Stress*
+  (jamais *Krieg*, calque)
+- coup de barre / coup de mou / crash de sucre → **Tief** / **Zuckertief**
+- ça lui/leur passera (avec l'âge) → **das geht mit der Zeit vorbei**
+- négocier, supplier (avec l'enfant) → **diskutieren, überreden**
+- faire un écart (alimentaire) → **naschen**
+- je ne savais plus quoi faire → **ich wusste nicht mehr weiter**
+- ne pas trouver le sommeil → **an die Decke starren** / *sich hin und herwälzen*
+- cartonner / tout déchirer → **rocken** / *bei mir läuft's*
+- se sentir démuni → **ratlos sein** ; culpabiliser → **ein schlechtes Gewissen haben**
+- rétamé / épuisé → **wie gerädert** ; dur comme la pierre → **hart wie Stein**
+
 ## La règle numéro un : ça doit sonner naturel à l'oral
 
 C'est LE point non négociable. Le français (ou toute autre langue source) est
