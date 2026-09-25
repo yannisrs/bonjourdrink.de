@@ -24,6 +24,21 @@ toujours trop longue, trop plate, ou légèrement « à côté » — elle trahi
 étrangère et tue l'impact. Ton produit final, c'est l'**effet** sur le lecteur, pas
 la correspondance des mots.
 
+## LE TEST N°1 — « Est-ce qu'un·e Allemand·e dirait ça à l'oral ? »
+
+Avant de valider **chaque phrase**, applique ce filtre : *est-ce qu'un·e Allemand·e
+pourrait dire ça spontanément, à voix haute, dans une vraie conversation ?* Si la
+réponse est « non, ça sonne écrit / traduit / artificiel » → **on reformule**, même si
+c'est grammaticalement parfait.
+
+C'est le piège récurrent : des tournures correctes mais **artificielles** (`auf
+Autopilot`, `Ernst gemeinte Frage`, `ein Unterschied wie Tag und Nacht`, `der Griff
+zum Süßen`…). Elles passent la grammaire mais échouent au test de l'oral. La pub doit
+sonner **authentique**, jamais « joliment traduite ». Dans le doute, se dire la phrase
+à voix haute mentalement, et aller vérifier sur du vrai allemand natif (voir méthode de
+calibrage). Ce test prime sur tout le reste : une phrase qui ne sonne pas naturelle est
+à retravailler, point.
+
 ## Posture de travail (à appliquer à CHAQUE traduction)
 
 Travailler avec **précision, rigueur et sérieux** — dans la rédaction comme dans la
