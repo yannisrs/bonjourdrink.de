@@ -421,7 +421,14 @@ correction de l'utilisateur.
 - **Bannir `Zuckerzusatz` / `kein Zuckerzusatz`** (trop lourd) → **`ohne Zucker`**
   (phrase) ou **`zuckerfrei`** (label). Ex. « Endlich kein Zuckerzusatz » →
   **« Endlich ohne Zucker »**.
-- **Allégations santé : les laisser telles quelles par défaut.** Ne PAS retirer ni
+- **Exception : les allégations de MALADIE se retirent pour l'Allemagne.** Toute
+  référence à une **maladie nommée** (Morbus Crohn, Reizdarm, Migräne, Diabetes…) ou
+  toute promesse de soigner/soulager une maladie est **interdite** pour un aliment en
+  DE (HWG § 12). Contrairement aux claims santé généraux (voir ci-dessous), celles-ci
+  **ne se laissent PAS telles quelles** : les retirer ou reformuler en bien-être
+  non médical (ex. « Morbus Crohn und Kaffee? Damit kein Problem » → angle digestion/
+  légèreté sans nommer la maladie). Signaler à l'utilisateur qu'on les a retirées.
+- **Allégations santé (générales) : les laisser telles quelles par défaut.** Ne PAS retirer ni
   réécrire une allégation santé (cortisol, digestion, immunité, humeur, etc.) de ta
   propre initiative pour « conformité ». Reproduire/transcréer le message comme il
   est donné — la vérification de conformité (règlement UE, HWG…) est une étape que
