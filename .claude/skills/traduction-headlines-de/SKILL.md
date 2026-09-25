@@ -714,6 +714,13 @@ correction de l'utilisateur.
   ne pas dire *taugt was es verspricht*).
 - **ça déraille / rien ne va / ça coince** → **es läuft nicht rund** (« bei mir läuft
   morgens nichts rund ») ou l'idiome **der Wurm drin** (« da ist der Wurm drin »).
+  Version positive : **es läuft (endlich) rund** (« bei der Verdauung läuft endlich
+  alles rund »).
+- **« c'est le jour et la nuit » (énorme différence, en mieux)** → **NE PAS** calquer
+  en *ein Unterschied wie Tag und Nacht* (artificiel, sent la traduction). Préférer une
+  tournure orale selon le contexte : **`läuft endlich rund`** (digestion, quotidien),
+  **`Welten besser`**, **`wie ausgewechselt`**, **`merkt man sofort`**. Choisir celle
+  qui colle à la scène.
 - **ventre qui gargouille / crie famine** → **Magenknurren** (un seul mot, imagé ;
   « Schluss mit dem Magenknurren »). Ne pas fabriquer une relative bancale type
   *Magen, der knurrt*.
