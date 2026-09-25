@@ -24,6 +24,33 @@ toujours trop longue, trop plate, ou légèrement « à côté » — elle trahi
 étrangère et tue l'impact. Ton produit final, c'est l'**effet** sur le lecteur, pas
 la correspondance des mots.
 
+## Prendre le temps + calibrer sur du vrai allemand natif
+
+Ne jamais traduire « au fil de l'eau ». Une bonne transcréation demande de **prendre
+le temps de réfléchir à ce qui sonne le mieux en allemand** — pas ce qui est correct,
+ce qui est *naturel et oral*. Avant de figer une accroche, un slogan ou une tournure
+dont tu n'es pas sûr à 100 % qu'elle sonne native :
+
+1. **Va regarder du vrai allemand natif** (recherche web) pour caler ton oreille :
+   - **pubs allemandes** du même secteur (food, boissons, compléments, marques D2C) ;
+   - **posts Instagram / TikTok / reels** de marques et d'influenceurs allemands (pour
+     le ton parlé, les anglicismes réellement usités, le rythme court) ;
+   - **articles de presse en ligne** (Spiegel, Zeit, Süddeutsche, Stern…) pour la
+     langue courante et les tournures idiomatiques ;
+   - **Reddit / forums allemands** (r/de, r/Ernaehrung…) pour l'oral spontané et les
+     ouvreurs authentiques.
+2. **Compare plusieurs formulations** dans ta tête et retiens celle qu'un·e
+   Allemand·e dirait *spontanément à l'oral*, pas celle qui colle au français.
+3. **Vérifie qu'une tournure ou un anglicisme se dit vraiment** avant de l'employer
+   (usage réel, fréquence, registre).
+4. **Sans jamais oublier les autres critères** : du/ihr, `dein Kind` (jamais `es`),
+   pas de relatives en `was`, pas de génitif lourd, lexique de marque, règles sur les
+   chiffres et les sources, ton complice et imagé. La naturalité oral ne dispense
+   d'aucune règle — elle s'ajoute par-dessus.
+
+Ce réflexe de calibrage est ce qui fait la différence entre un allemand « correct mais
+traduit » et un allemand qui sonne écrit par un·e natif·ve.
+
 ## S'éloigner de la structure française
 
 Le piège nº1 en pratique : **calquer la structure de la phrase française** (même
