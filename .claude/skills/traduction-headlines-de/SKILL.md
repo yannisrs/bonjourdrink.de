@@ -505,6 +505,9 @@ correction de l'utilisateur.
   Grille → Raster · Bloc texte → Textblock · Bandeau → Banner · Cartouche gauche
   (rouge) → Feld links (rot) · Légende → Bildunterschrift · Headline → Headline
   (terme usuel dans les briefs allemands) · CTA reste CTA.
+- **rituel bien-être** → **Wohlfühl-Ritual** (défaut, chaleureux ; cf. « Das
+  französische Wohlfühl-Ritual »). Alternatives : `Wellness-Ritual` (plus premium),
+  `Morgenritual` (si l'accent est sur le matin).
 - **délicieux / savoureux (décrire la boisson)** → **lecker** par défaut (quotidien,
   oral, complice : `richtig lecker`, `schmeckt einfach lecker`). `köstlich` seulement
   pour une touche premium/ponctuelle (ex. `köstlicher Schokogeschmack`).
