@@ -589,8 +589,9 @@ correction de l'utilisateur.
 - **clean / sain (produit)** → concret et allemand : **nichts Unnötiges drin** /
   **ohne Zusatzstoffe** (l'anglicisme *clean* est du jargon peu crédible dans la
   bouche d'un parent — préférer l'image concrète).
-- **tout le monde gagne / win-win** → **Beide glücklich** / **Win-win** (éviter le
-  calque *alle gewinnen*).
+- **tout le monde gagne / win-win** → **alle sind happy** (oral, `happy` très courant
+  en DE) ou **alle sind zufrieden** ; aussi **Win-win**. Éviter le calque
+  *alle gewinnen* (et `Beide glücklich` reste possible mais moins fort).
 - **tient ses promesses / à la hauteur** → **hält, was es verspricht** (idiome fixe ;
   ne pas dire *taugt was es verspricht*).
 - **ça déraille / rien ne va / ça coince** → **es läuft nicht rund** (« bei mir läuft
