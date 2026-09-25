@@ -448,7 +448,8 @@ correction de l'utilisateur.
   allemand. Exception : si le « vous » français est un **vous pluriel** (on
   s'adresse à plusieurs personnes), utiliser **ihr** — le tutoiement pluriel,
   jamais le « Sie » de politesse.
-- **recettes** (gamme de boissons/parfums) → **Sorten**. Sonne authentique ;
+- **recettes** (gamme de boissons/parfums) → **Sorten**, JAMAIS *Rezepte* (erreur
+  récurrente : « 7 Rezepte » → **« 7 Sorten »**). Sonne authentique ;
   éviter *Rezepte*, trop littéral.
 - **l'enfant** (référence neutre au genre) → **toujours `dein Kind`, absolument
   jamais `es`.** C'est la règle la plus stricte du lexique. Le `es` pour désigner
