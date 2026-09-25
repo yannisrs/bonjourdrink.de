@@ -721,6 +721,17 @@ correction de l'utilisateur.
   n'existe : rester vague, sans citer précisément** (« deutlich weniger Zucker », « nur
   ein Bruchteil davon ») plutôt qu'inventer ou recycler un chiffre étranger.
 
+- **PRINCIPE CLÉ — chiffre officiel OU impression, jamais entre les deux.**
+  - **Tu as un chiffre fixe, officiel et vérifié sur une vraie source allemande**
+    (DGE, RKI, BfR…) → **mets-le** tel quel, précis, il fait autorité et rend la copy
+    crédible.
+  - **Tu n'as pas de chiffre fiable pour l'Allemagne** → **ne l'invente jamais** et ne
+    recycle pas un chiffre étranger. Trouve une **tournure qui donne surtout une
+    impression**, une sensation d'ampleur, sans prétendre à la précision : `fast
+    doppelt so viel wie empfohlen`, `die meisten Kinder`, `kaum jemand schafft es`,
+    `viel zu viel Zucker`, `nur ein Bruchteil davon`. L'effet marketing est gardé, le
+    risque de conformité disparaît.
+
 ### Sources vérifiées pour l'Allemagne (réutilisables — mais À RE-VÉRIFIER)
 
 > ⚠️ **Toujours refaire la recherche avant de citer un de ces chiffres.** Les
