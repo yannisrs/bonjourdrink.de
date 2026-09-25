@@ -565,6 +565,9 @@ correction de l'utilisateur.
 - **ne pas trouver le sommeil / insomnie** → image concrète **an die Decke starren**
   (ou *sich hin und herwälzen*). Éviter le cliché *Schäfchen zählen*. Tentative
   d'endormissement dans une liste → *Einschlaftee*, *Meditations-App*.
+- **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
+  « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
+- **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
 - **ventre qui gargouille / crie famine** → **Magenknurren** (un seul mot, imagé ;
   « Schluss mit dem Magenknurren »). Ne pas fabriquer une relative bancale type
   *Magen, der knurrt*.
