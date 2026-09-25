@@ -280,12 +280,18 @@ Si un jeu de mots français est intraduisible, ne le traduis pas : trouve un
 
 ## Ce qui fait un allemand publicitaire naturel
 
-- **Chiffres toujours en chiffres.** Écris les nombres en chiffres, jamais en toutes
-  lettres : *8 Kapseln* (pas *acht Kapseln*), *30 Sekunden* (pas *dreißig Sekunden*),
-  *2 Zuckerwürfel*, *60 Tage*. C'est plus percutant et plus lisible en pub. Vaut pour
-  tous les formats, y compris les scripts voix-off. **Exception** : les fractions
-  simples peuvent rester en lettres quand c'est plus naturel — *anderthalb* /
-  *eineinhalb* (= 1,5), *ein halbes* (= 0,5). Ex. « anderthalb Schalen Himbeeren ».
+- **Chiffres — quand en chiffres, quand en lettres :**
+  - **Durées / unités de temps → TOUJOURS en chiffres** : `30 Sekunden`, `6 Minuten`,
+    `24 Stunden`, `60 Tage`, `3 Wochen`, `2 Monate`, `4 Jahre` (jamais *sechs Minuten*).
+  - **Chiffres marketing / claims / prix / % / notes → en chiffres** : `8 wichtige
+    Nährstoffe`, `11 Wirkstoffe`, `3 Geschenke`, `2.700 mg`, `-54 %`, `0,90 €`,
+    `4,8/5`, `30.000 Bewertungen`, `2 Zuckerwürfel`.
+  - **Quantités d'ingrédients (recette) → en lettres OK** : `ein Löffel`, `zwei Löffel`,
+    `drei Eiswürfel`, `eine Scheibe Ingwer` (plus naturel dans une recette).
+  - **Fractions simples → en lettres** : `anderthalb`/`eineinhalb` (1,5), `ein halbes`
+    (0,5). Ex. « anderthalb Schalen Himbeeren ».
+  En pub, les chiffres marketing en chiffres sont plus percutants ; vaut pour tous
+  les formats, voix-off comprise.
 - **Format de l'heure : `17 Uhr`, pas `17h`.** La notation `17h` / `8h` est
   française/anglaise. En allemand : **`17 Uhr`**, `8 Uhr`, `4 Uhr` (ou `17:00`).
 - **Concision.** Une accroche reste une accroche. L'allemand a tendance à
