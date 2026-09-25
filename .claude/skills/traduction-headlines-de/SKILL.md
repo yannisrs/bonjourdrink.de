@@ -565,6 +565,15 @@ correction de l'utilisateur.
 - **ne pas trouver le sommeil / insomnie** → image concrète **an die Decke starren**
   (ou *sich hin und herwälzen*). Éviter le cliché *Schäfchen zählen*. Tentative
   d'endormissement dans une liste → *Einschlaftee*, *Meditations-App*.
+- **Pronom relatif : `das/der/die`, PAS `was`.** Le relatif s'accorde avec le nom
+  (`das Geschenk → das`, `der Morgen → der`, `die Tasse → die`). `was` seulement après
+  `alles/etwas/nichts/das` (neutre indéfini). Faute récurrente à corriger :
+  ❌ « ein Geschenk, **was** wirklich was bringt » → ✅ « ein Geschenk, **das** wirklich
+  was bringt » ; ❌ « das Geschenk **was** mir jeder wegschnappt » → ✅ « …**das** mir
+  jeder wegschnappt ».
+- **Virgule de relative : pas besoin dans les headlines.** En corps de texte, la
+  virgule avant la relative est obligatoire ; **dans une headline, on peut l'omettre**
+  (plus punchy) — « Endlich ein Geschenk das wirklich was bringt ».
 - **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
   « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
 - **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
