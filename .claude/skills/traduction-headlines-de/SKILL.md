@@ -39,6 +39,12 @@ figé, on met deux images concrètes côte à côte, et la chute `fehlen einfach
 l'idiome). L'objectif n'est jamais la fidélité de structure, mais l'effet oral
 authentique.
 
+**Attention : s'éloigner de la structure ≠ surinterpréter.** On casse la *structure*,
+pas le *sens*. Ne pas rajouter un angle, une image ou un thème qui n'est pas dans
+l'original (ex. resserrer une accroche générale sur « le ventre » alors que le concept
+parle du matin en général = dérive). Rester fidèle à l'intention : transcréer, pas
+réinventer le message.
+
 ## Expressions idiomatiques FR→DE (règle importante)
 
 Les expressions/images françaises sont un piège majeur. **Règle :**
@@ -578,6 +584,8 @@ correction de l'utilisateur.
 - **prendre / consommer (une boisson)** → **trinken** (jamais *nehmen*, qui fait
   « médicament » et sonne claim). Ex. « Ich trinke Bonjour seit 2 Monaten ».
 - **Trustpilot** : orthographe exacte à vérifier (souvent tapé *Truspilot*).
+- **ça déraille / rien ne va / ça coince** → **es läuft nicht rund** (« bei mir läuft
+  morgens nichts rund ») ou l'idiome **der Wurm drin** (« da ist der Wurm drin »).
 - **ventre qui gargouille / crie famine** → **Magenknurren** (un seul mot, imagé ;
   « Schluss mit dem Magenknurren »). Ne pas fabriquer une relative bancale type
   *Magen, der knurrt*.
