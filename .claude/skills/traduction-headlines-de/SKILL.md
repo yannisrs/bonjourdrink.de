@@ -674,6 +674,17 @@ correction de l'utilisateur.
   `Dosen`, ou l'image `Pillen und Pulver` (headline plus imagée). Ex. « Ein Regal
   voller Nahrungsergänzung. Und eine einzige Tasse. » S'adapter au ton du support
   plutôt que de figer un seul mot.
+- **Toujours rechercher AVANT de traduire une stat.** Dès qu'un texte contient un
+  chiffre, un seuil, un pourcentage ou une source, faire **systématiquement une
+  recherche web sur les sites officiels allemands** (DGE, RKI, BfR, DAkkS, OMS…) avant
+  d'écrire la version DE — ne jamais traduire une stat « au jugé ». Mettre le chiffre
+  allemand exact quand il existe ; s'il n'existe pas / sources divergentes → rester sur
+  un fait solide et vague (`fast doppelt so viel Zucker wie empfohlen`), jamais un
+  chiffre étranger recyclé.
+- **Localiser les unités.** Recalculer les unités quand elles diffèrent : un
+  **Würfelzucker allemand ≈ 3 g**, un **morceau de sucre français ≈ 6 g** → « 10
+  morceaux » (FR) = ~60 g = **~20 Stück Würfelzucker** (DE). Idem pour toute mesure
+  (cl/ml, portions…) : convertir pour que le chiffre soit juste sur le marché allemand.
 - **Statistiques externes → équivalent allemand, sinon vague.** La règle vaut pour
   les **stats / chiffres / pourcentages sur la population** (« X % des enfants
   mangent trop de sucre / pas assez de fibres », seuils recommandés, normes) : elles
