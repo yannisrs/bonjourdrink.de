@@ -737,6 +737,15 @@ Exemple : « Dein Morgen hat das Gegenteil verdient » (participe final, on atte
 chute) → **« Dein Morgen verdient das Gegenteil »** (verbe tôt, l'idée arrive
 d'un coup).
 
+**Placer le mot fort selon l'accent voulu.** L'allemand est « régressif » (Satzklammer :
+le verbe/la particule ferme souvent la phrase, le poids tombe à la fin). L'ordre des
+mots n'est donc pas qu'une règle mécanique de « verbe tôt » : **module la position du
+verbe / des éléments selon ce que tu veux mettre en avant**. Ce qui doit rester en tête
+(l'impact immédiat) va tôt ; ce qui doit marquer (la chute, le mot-clé, la marque) peut
+fermer la phrase. Ex. `Füg eine Tasse hinzu mit Bonjour` → **`Füg eine Tasse Bonjour
+hinzu`** (on finit sur `hinzu`, qui répond à `nie etwas hinzugefügt`). Garder la
+lisibilité au premier coup d'œil, mais utiliser la place du verbe comme un outil d'accent.
+
 **Éviter au maximum les relatives** (`was`, `der/die/das`, `den`, `dem`…), surtout en
 headline. Ces subordonnées rejettent le verbe à la fin et cassent l'impact — on
 attend la chute qui ne vient pas. Reformule en **phrase principale directe, verbe
