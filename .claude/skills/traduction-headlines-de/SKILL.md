@@ -758,6 +758,11 @@ correction de l'utilisateur.
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
   vivant et complice pour une accroche.
+- **étiquette / liste d'ingrédients** → par défaut **`Zutatenliste`** (ou `die
+  Zutaten`) quand le sujet est *ce qu'il y a dedans* — c'est le réflexe naturel
+  (« schau mal auf die Zutatenliste »). **`Etikett`** seulement pour l'étiquette
+  physique (l'objet collé), plus rare en pub. Image concrète possible : **`die
+  Rückseite`** / `dreh die Packung mal um` quand on veut « retourner le paquet ».
 - **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
   complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
   Éviter `im Ausguss landen` (un peu technique).
