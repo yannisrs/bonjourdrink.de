@@ -301,7 +301,17 @@ juste les pièges récurrents — chacun est détaillé plus bas.
   hergeschoben` (idiome *etwas vor sich herschieben*, > *aufgeschoben*).
 - **Faux amis d'usage** : `serious` → `legit` / `echt` (vérifier l'usage réel).
 - **`es` pour l'enfant** : jamais → toujours `dein Kind` ; première mention par un
-  nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`.
+  nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`. **Attention : cette
+  règle ne concerne QUE l'enfant.** Pour un produit, le pronom suit le genre du mot :
+  **der Kakao → er/ihn** (jamais `es`, qui serait faux), die Schale → sie, das
+  Getränk → es. Ne pas confondre les deux.
+- **Répétition de pronom en tête de puces** (`Er wäre nicht… / Er hätte nicht…` à
+  chaque ligne) → lourd. Alléger : puces **courtes, souvent sans verbe** (« Zucker an
+  erster Stelle, nicht Kakao », « Ohne die Bourbon-Vanille, die den Kakao abrundet »).
+- **Konjunktiv II ampoulé (`stünde`, `stünde`, `käme`, `läge`…)** → à éviter. Préférer
+  `wäre`/`hätte` (courants) ou, mieux, **reformuler sans le verbe** / à l'indicatif.
+  Ex. ❌ « Ganz oben auf der Zutatenliste stünde Zucker » → ✅ « Zucker an erster
+  Stelle, nicht Kakao ».
 - **Chiffres** : toujours en chiffres (`8`, `30 Sekunden`, `-40 %`).
 
 ## Procédé de traduction (à suivre à chaque fois)
@@ -748,6 +758,9 @@ correction de l'utilisateur.
   allemand, naturel et parlant ; fil rouge efficace pour les pubs énergie/enfants).
 - **à plat / fatigué (registre oral)** → **schlapp** (« schon um 10 Uhr schlapp? ») —
   vivant et complice pour une accroche.
+- **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
+  complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
+  Éviter `im Ausguss landen` (un peu technique).
 - **envie de sucre / on craque pour du sucré** → **`schon wieder was Süßes`** (parlé,
   naturel). Éviter **`der Griff zum Süßen`** (trop nominal/écrit) et autres tournures
   substantivées. Rester dans la formulation orale et spontanée.
