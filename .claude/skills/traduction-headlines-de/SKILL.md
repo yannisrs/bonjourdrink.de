@@ -287,6 +287,9 @@ UGC…), la repérer et la reformuler plus fluide. Ce n'est pas une checklist bl
 juste les pièges récurrents — chacun est détaillé plus bas.
 
 - **Konjunktiv II lourd** : `würden wissen` → `wüssten` ; `käme` → indicatif.
+- **Konjunktiv I (discours indirect `sei`, `habe`, `werde`)** : sonne écrit/formel →
+  passer à l'indicatif oral. Ex. ❌ `die gesagt haben, es sei zu teuer` → ✅ `die
+  gesagt haben, es ist zu teuer`.
 - **Relatives** (`was…`, `der/die/das…`, `dessen…` imbriqué) → phrase principale
   directe, verbe tôt.
 - **Génitif lourd** : `deines Kindes` → `für dein Kind` ou tournure verbale.
