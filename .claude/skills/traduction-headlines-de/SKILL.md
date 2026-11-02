@@ -534,7 +534,16 @@ correction de l'utilisateur.
   **ne se laissent PAS telles quelles** : les retirer ou reformuler en bien-être
   non médical (ex. « Morbus Crohn und Kaffee? Damit kein Problem » → angle digestion/
   légèreté sans nommer la maladie). Signaler à l'utilisateur qu'on les a retirées.
-- **RÈGLE D'OR ALLÉGATIONS — « on fait les allégations, sauf maladies ».** On garde et
+- **Bonjour Nuit (gamme du soir) — JAMAIS de promesse de sommeil.** Interdit :
+  `ich schlafe besser`, `schneller einschlafen`, `erholsame Nacht`, `Schlaf` comme
+  promesse, et toute variante. Rester sur le **rituel du soir**, pas sur le résultat :
+  **`den Tag sanft ausklingen lassen`** (idiome DE pour « finir la journée en
+  douceur »), `mein Abend-Ritual`, `zur Ruhe kommen` — le moment, jamais la nuit. Les
+  mentions légales (ab 18, nicht auf nüchternen Magen, nicht in Schwangerschaft/
+  Stillzeit) vont en description.
+- **« Dodo » (de *faire dodo*) n'existe pas en allemand.** Ne jamais le reprendre tel
+  quel (ex. *Dodo-E-Book* = incompréhensible en DE). Renommer en neutre : `Abend-E-Book`
+  (sûr) plutôt que `Gute-Nacht-E-Book` (flirte avec le claim sommeil).
   on transcrée toutes les allégations santé/fonctionnelles, **y compris celles des
   actifs et adaptogènes** (cortisol, focus, stress, digestion, immunité, énergie,
   humeur, champignons/adaptogènes…). Seule exception : les **maladies nommées** (voir
