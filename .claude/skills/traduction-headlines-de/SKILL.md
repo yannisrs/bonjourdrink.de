@@ -313,6 +313,10 @@ juste les pièges récurrents — chacun est détaillé plus bas.
   Ex. ❌ « Ganz oben auf der Zutatenliste stünde Zucker » → ✅ « Zucker an erster
   Stelle, nicht Kakao ».
 - **Chiffres** : toujours en chiffres (`8`, `30 Sekunden`, `-40 %`).
+- **Ponctuation allemande (piège FR)** : **pas d'espace avant `!` `?` `:` `;`** en
+  allemand (contrairement au français). ❌ `Sie lieben es !` / `Und weil Black Friday
+  ist :` → ✅ `Sie lieben es!` / `Und weil Black Friday ist:`. Vérifier
+  systématiquement quand la source est française.
 
 ## Procédé de traduction (à suivre à chaque fois)
 
