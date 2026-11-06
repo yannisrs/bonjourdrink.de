@@ -779,6 +779,11 @@ correction de l'utilisateur.
   (« schau mal auf die Zutatenliste »). **`Etikett`** seulement pour l'étiquette
   physique (l'objet collé), plus rare en pub. Image concrète possible : **`die
   Rückseite`** / `dreh die Packung mal um` quand on veut « retourner le paquet ».
+- **« parent » (s'adresser au parent)** → **éviter `Elternteil`** (mot de formulaire,
+  administratif, rate le test de l'oral). On parle au parent en **`du`** directement,
+  sans nom le plus souvent. Si un nom est nécessaire : **`als Eltern`** (ihr, neutre et
+  naturel) ou **`als Mama oder Papa`** (chaleureux, complice). Réserver `Elternteil`
+  aux contextes formels/légaux (mentions).
 - **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
   complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
   Éviter `im Ausguss landen` (un peu technique).
