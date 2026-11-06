@@ -26,6 +26,11 @@ la correspondance des mots.
 
 ## LE TEST N°1 — « Est-ce qu'un·e Allemand·e dirait ça à l'oral ? »
 
+> **RÈGLE SUPRÊME, au-dessus de toutes les autres : le texte doit être un allemand
+> oral, authentique.** Si une tournure est impeccable grammaticalement mais ne sonne
+> pas comme ce qu'un·e Allemand·e dirait spontanément à voix haute, elle est mauvaise
+> et doit être retravaillée. Rien ne passe avant ça.
+
 Avant de valider **chaque phrase**, applique ce filtre : *est-ce qu'un·e Allemand·e
 pourrait dire ça spontanément, à voix haute, dans une vraie conversation ?* Si la
 réponse est « non, ça sonne écrit / traduit / artificiel » → **on reformule**, même si
