@@ -789,6 +789,13 @@ correction de l'utilisateur.
   (« schau mal auf die Zutatenliste »). **`Etikett`** seulement pour l'étiquette
   physique (l'objet collé), plus rare en pub. Image concrète possible : **`die
   Rückseite`** / `dreh die Packung mal um` quand on veut « retourner le paquet ».
+- **Localisation culturelle du petit-déj (piège FR).** Les items de petit-déj
+  français ne parlent PAS au public allemand : **`Croissant`, `pain au chocolat`,
+  `tartine`** ne sont pas le petit-déj allemand typique. Remplacer par des équivalents
+  DE : **`süßes Frühstück`** (générique, sûr), **`Marmeladenbrötchen`**, **`Nutellabrot`**,
+  **`süßes Teilchen`**, `Müsli`, `Cornflakes`. Ex. ❌ `Ritual statt Croissant` → ✅
+  `Ritual statt süßem Frühstück`. (Vaut aussi pour les marques/habitudes : toujours
+  ancrer dans le quotidien allemand, cf. Tropicana→Hohes C.)
 - **« Bio » = terme protégé (UE).** N'utiliser `Bio` (ou `Öko`) que si le produit/les
   ingrédients sont **réellement certifiés bio** (avec organisme de certification). Dans
   le doute, retirer : `Bio-Extrakte` → `Extrakte`. Ne jamais l'ajouter de sa propre
