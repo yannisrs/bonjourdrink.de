@@ -801,6 +801,10 @@ correction de l'utilisateur.
 - **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
   complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
   Éviter `im Ausguss landen` (un peu technique).
+- **Génitif relatif `dessen` / `deren`** → lourd, à éviter. Reformuler avec `mit …`
+  ou `bei dem/der …`. Ex. ❌ `Ein Kakao, dessen Zutatenliste du ohne Stirnrunzeln
+  liest` → ✅ `Ein Kakao mit einer Zutatenliste ohne böse Überraschungen` / `Ein Kakao,
+  bei dem du die Zutatenliste ganz entspannt lesen kannst`.
 - **lourd sur l'estomac / ça pèse / digestion difficile** → idiome **`schwer im Magen
   liegen`** (« das Frühstück lag mir schwer im Magen »). Éviter les relatives lourdes
   type *das Frühstück, nach dem sich mein Bauch schwer anfühlte* → reformuler avec
