@@ -911,6 +911,7 @@ correction de l'utilisateur.
 | **Sucre libre — adultes** | DGE : max 10 % de l'énergie ≈ **50 g/j** ; conso réelle ≈ **90–100 g/j** | DGE (Konsensuspapier Zucker) | `fast doppelt so viel wie empfohlen` / `rund 90 g am Tag – fast das Doppelte` |
 | **Fibres (Ballaststoffe) — adultes** | DGE recommande **≥ 30 g/j** ; conso réelle ≈ **18–19 g/j** (NVS II) | DGE / NVS II | `kaum jemand in Deutschland kommt auf die empfohlenen 30 g Ballaststoffe` |
 | **Sucre en morceaux (unité)** | Würfelzucker DE ≈ **3 g** (≠ morceau FR ≈ 6 g) — recalculer toute conversion en « morceaux/cubes » | usage DE | ex. « 10 morceaux » FR ≈ 60 g ≈ **20 Stück Würfelzucker** |
+| **Fruits & légumes — enfants (5 par jour)** | source FR (Esteban / Santé publique France) interdite → équivalent allemand : **~14 %** des enfants/ados atteignent les 5 portions/j | RKI / KiGGS Welle 2 (2014–2017) | `Nur 14 % der Kinder essen 5 Portionen Obst und Gemüse am Tag` |
 
 **Autorités allemandes de référence** (à interroger dans cet ordre selon le sujet) :
 **DGE** (nutrition/apports), **RKI** (santé population/enfants), **BfR** (risques
