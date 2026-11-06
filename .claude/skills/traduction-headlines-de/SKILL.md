@@ -307,6 +307,11 @@ juste les pièges récurrents — chacun est détaillé plus bas.
 - **Ouvreurs UGC/Reddit** : `Genuinely asking` → `Mal ehrlich gefragt:` (pas *Ernst
   gemeinte Frage*, qui sonne étiquette). `kept putting it off` → `ewig vor mir
   hergeschoben` (idiome *etwas vor sich herschieben*, > *aufgeschoben*).
+- **Chute de témoignage « slogan »** : `[Produkt] hat unseren Morgen entspannter
+  gemacht` sonne corporate/pub, pas une vraie personne. Préférer une tournure vécue :
+  **`Seit [Produkt] sind unsere Morgen einfach entspannter`** ou **`Ehrlich: Bei uns
+  ist morgens endlich Ruhe`**. Un témoin raconte avec `seit…` + `einfach`, pas avec
+  `X hat … gemacht`.
 - **Faux amis d'usage** : `serious` → `legit` / `echt` (vérifier l'usage réel).
 - **`es` pour l'enfant** : jamais → toujours `dein Kind` ; première mention par un
   nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`. **Attention : cette
