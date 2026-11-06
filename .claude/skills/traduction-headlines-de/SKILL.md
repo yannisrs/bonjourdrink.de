@@ -801,6 +801,10 @@ correction de l'utilisateur.
 - **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
   complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
   Éviter `im Ausguss landen` (un peu technique).
+- **lourd sur l'estomac / ça pèse / digestion difficile** → idiome **`schwer im Magen
+  liegen`** (« das Frühstück lag mir schwer im Magen »). Éviter les relatives lourdes
+  type *das Frühstück, nach dem sich mein Bauch schwer anfühlte* → reformuler avec
+  l'idiome + `früher … jetzt …`.
 - **envie de sucre / on craque pour du sucré** → **`schon wieder was Süßes`** (parlé,
   naturel). Éviter **`der Griff zum Süßen`** (trop nominal/écrit) et autres tournures
   substantivées. Rester dans la formulation orale et spontanée.
