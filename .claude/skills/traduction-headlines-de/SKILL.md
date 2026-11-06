@@ -801,6 +801,10 @@ correction de l'utilisateur.
 - **finir dans l'évier / jeter (un liquide)** → **`den kippst du eh weg`** (oral,
   complice ; `wegkippen` = vider un liquide) ou **`in der Spüle landen`** (neutre).
   Éviter `im Ausguss landen` (un peu technique).
+- **Éviter le gabarit pub `Ein [Produkt], das/den/nach dem …`** (accroche avec
+  relative, tic de pub qui alourdit). Préférer une **phrase principale directe**. Ex.
+  ❌ `Ein Kakao, nach dem sie selbst fragen` → ✅ `Sie wollen ihn von allein` /
+  `Morgens fragen sie selbst danach` / `Den trinken sie von allein aus`.
 - **Génitif relatif `dessen` / `deren`** → lourd, à éviter. Reformuler avec `mit …`
   ou `bei dem/der …`. Ex. ❌ `Ein Kakao, dessen Zutatenliste du ohne Stirnrunzeln
   liest` → ✅ `Ein Kakao mit einer Zutatenliste ohne böse Überraschungen` / `Ein Kakao,
