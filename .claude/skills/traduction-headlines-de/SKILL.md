@@ -789,6 +789,10 @@ correction de l'utilisateur.
   (« schau mal auf die Zutatenliste »). **`Etikett`** seulement pour l'étiquette
   physique (l'objet collé), plus rare en pub. Image concrète possible : **`die
   Rückseite`** / `dreh die Packung mal um` quand on veut « retourner le paquet ».
+- **« Bio » = terme protégé (UE).** N'utiliser `Bio` (ou `Öko`) que si le produit/les
+  ingrédients sont **réellement certifiés bio** (avec organisme de certification). Dans
+  le doute, retirer : `Bio-Extrakte` → `Extrakte`. Ne jamais l'ajouter de sa propre
+  initiative.
 - **« parent » (s'adresser au parent)** → **éviter `Elternteil`** (mot de formulaire,
   administratif, rate le test de l'oral). On parle au parent en **`du`** directement,
   sans nom le plus souvent. Si un nom est nécessaire : **`als Eltern`** (ihr, neutre et
