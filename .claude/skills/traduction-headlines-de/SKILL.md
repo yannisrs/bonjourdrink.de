@@ -312,6 +312,28 @@ juste les pièges récurrents — chacun est détaillé plus bas.
   **`Seit [Produkt] sind unsere Morgen einfach entspannter`** ou **`Ehrlich: Bei uns
   ist morgens endlich Ruhe`**. Un témoin raconte avec `seit…` + `einfach`, pas avec
   `X hat … gemacht`.
+- **Puces « bénéfice » à l'infinitif** (`… zu haben`, `… zu brauchen`, `… zum X-en`) →
+  lourdes. Passer en **forme directe nominale** : ❌ `Abends kein Völlegefühl zu haben`
+  → ✅ `Abends kein Völlegefühl mehr.` ; ❌ `Keine 3 Kaffees mehr zum Durchhalten zu
+  brauchen` → ✅ `Keine 3 Kaffees mehr, nur um durchzuhalten.`
+- **Noms composés à tirets « fabriqués »** (`Mag-ich-nicht-Phase`, `An-die-Decke-
+  Starren`, `Frühstücksfehler`…) → artificiels. Dérouler en langage naturel :
+  `„Mag ich nicht"-Phase` / `wenn er gerade bei allem Nein sagt` ; `mein größter Fehler
+  beim Frühstück` (pas `Frühstücksfehler`).
+- **CTA à la 1ʳᵉ personne** (`Meine Kinder probieren lassen`) → bancal. Utiliser les CTA
+  maison : `Jetzt sichern` / `Jetzt entdecken` / `Bonjour Kids entdecken`. Et
+  `60 Tage zum Testen` → **`60 Tage zum Ausprobieren`** (`testen` à éviter).
+- **`Nebenwirkungen`** (terme pharma) pour un aliment → risque « présentation de type
+  médicament » (HWG) ; utiliser **`Nebeneffekt`** (`Praktischer Nebeneffekt: …`).
+- **Adresse cohérente** : ne jamais mélanger `du` et `ihr/euch` dans le même texte.
+  Choisir l'un et s'y tenir.
+- **« tourner au ralenti / sur la réserve »** → `auf Sparflamme laufen`, `im Leerlauf`,
+  `neben der Spur`, `nicht in Gang kommen` (pas `auf Reserve laufen`, plat).
+- **« c'est le jour et la nuit » / « X a tout changé »** : voir idiomes plus bas
+  (`läuft endlich rund`, `Seit … einfach …`) — jamais `wie Tag und Nacht`.
+- **Marques génériques (FR/EN) à localiser** : `Tetrapak` → `Karton` ; items petit-déj
+  FR (`Croissant`…) → `süßes Frühstück` / `Marmeladenbrötchen` ; prénoms FR (`Carole`)
+  → DE (`Carola`).
 - **Faux amis d'usage** : `serious` → `legit` / `echt` (vérifier l'usage réel).
 - **`es` pour l'enfant** : jamais → toujours `dein Kind` ; première mention par un
   nom (`mein Sohn`/`meine Tochter`/`dein Kind`), puis `er`/`sie`. **Attention : cette
@@ -544,11 +566,29 @@ correction de l'utilisateur.
   **ne se laissent PAS telles quelles** : les retirer ou reformuler en bien-être
   non médical (ex. « Morbus Crohn und Kaffee? Damit kein Problem » → angle digestion/
   légèreté sans nommer la maladie). Signaler à l'utilisateur qu'on les a retirées.
+  - **Red flags « claim médical » (à signaler systématiquement, au-delà des maladies
+    nommées)** : toute affection/organe/symptôme traité → `Sehnenentzündung`/tendinite,
+    `chronische Darmentzündungen`, `Darmkrämpfe`, `Verstopfung` ou le récit « enfant qui
+    n'arrive pas à aller à la selle », `Nieren wie neu`/fonction rénale,
+    `Wassereinlagerungen`/rétention d'eau/drainage, `geschwollenes Gesicht`,
+    `schwere Beine`, `Detox`. Et les verbes trop forts : `reduziert oxidativen Stress` →
+    seul `trägt dazu bei, die Zellen vor oxidativem Stress zu schützen` est autorisé.
+    Ces angles ne sont pas « restylables » : changer d'angle ou faire valider la confo.
+  - **Claims os (Calcium/Vit. D) : `normal`, jamais `stark`/`gesund`.** ❌ `starke/gesunde
+    Knochen` → ✅ `normale Knochen` / `normales Wachstum und eine normale
+    Knochenentwicklung bei Kindern`. Idem éviter `stärkt` (dépasse « normale Funktion »).
+  - **Claim fatigue (B12, Vit. C) : libellé complet obligatoire** → `trägt zur
+    Verringerung von Müdigkeit **und Ermüdung** bei` (ne jamais couper à « …Müdigkeit
+    bei » ni raccourcir en « gegen Müdigkeit »).
 - **Bonjour Nuit (gamme du soir) — JAMAIS de promesse de sommeil.** Interdit :
-  `ich schlafe besser`, `schneller einschlafen`, `erholsame Nacht`, `Schlaf` comme
-  promesse, et toute variante. Rester sur le **rituel du soir**, pas sur le résultat :
-  **`den Tag sanft ausklingen lassen`** (idiome DE pour « finir la journée en
-  douceur »), `mein Abend-Ritual`, `zur Ruhe kommen` — le moment, jamais la nuit. Les
+  `ich schlafe besser`, `schneller einschlafen`, `erholsame Nacht`, `tieferer Schlaf`,
+  `frisch statt benommen aufwachen`, `Aufwachen/Gedankenkarussell um 3 Uhr`,
+  `An-die-Decke-Starren nachts`, `morgens wie gerädert`, `Schlaf` comme promesse — et
+  toute variante touchant au sommeil, aux réveils nocturnes ou à la qualité du réveil.
+  Rester sur le **rituel du soir / le calme**, jamais sur le résultat : **`den Tag sanft
+  ausklingen lassen`**, `abends abschalten / runterkommen`, `mein Abend-Ritual`,
+  `zur Ruhe kommen`. Le calme (`beruhigt`, `Ruhe am Abend`) est une allégation OK ; le
+  sommeil, non. Différenciateur sûr : `ohne Melatonin` / `Pflanzen statt Hormone`. Les
   mentions légales (ab 18, nicht auf nüchternen Magen, nicht in Schwangerschaft/
   Stillzeit) vont en description.
 - **« Dodo » (de *faire dodo*) n'existe pas en allemand.** Ne jamais le reprendre tel
@@ -726,6 +766,26 @@ correction de l'utilisateur.
   trop français.
 - **négocier, supplier** (avec l'enfant) → **diskutieren, überreden** (éviter le trop
   fort *verhandeln, betteln*).
+- **ne pas toucher à / ne pas manger** → **(nicht) anrühren** (« er rührt kein Ei an »),
+  plus oral que des périphrases ; `am Tellerrand liegen bleiben` pour « ce qu'il laisse ».
+- **grognon / peu bavard le matin (enfant, ado)** → **décrire** plutôt qu'étiqueter :
+  `sagt kaum ein Wort`, `wird muffelig`, `einsilbig`, `maulfaul` — pas `wortkarg` (écrit).
+- **avaler des gélules en se forçant** → **runterwürgen** (« jeden Morgen Kapseln
+  runterwürgen »), plus vivant que `mit verzogenem Gesicht schlucken`.
+- **appuyer sur snooze** → **snoozen** (verbe courant à l'oral), pas `auf Snooze drücken`.
+- **brique de lait / carton** → **Karton** (neutre, sûr) ; `Tetrapak` est une marque
+  (générique à l'oral mais à éviter en pub propre).
+- **« du commerce » (produit concurrent)** → **handelsüblich** (`handelsübliche
+  Multivitamin-Gummis`) ou `aus dem Supermarkt` ; `aus dem Handel` ok mais plat.
+- **intercepter / prendre à part (la maîtresse, etc.)** → `beim Abholen zur Seite
+  nehmen` / `auf jmdn zukommen`, pas `am Schultor abfangen` (dramatique).
+- **finir à la poubelle / jeter un liquide** → `den kippst du eh weg` (`wegkippen`),
+  `in der Spüle landen` ; pour les toilettes à l'oral : `aufs Klo` (pas `ins Bad`).
+- **faire la morale** → `belehren` / `kein erhobener Zeigefinger`, pas `Moralpredigt
+  halten` (lourd).
+- **tourner au ralenti** → `auf Sparflamme laufen`, `im Leerlauf`, `neben der Spur`,
+  `nicht in Gang kommen`.
+- **lourd sur l'estomac** → `schwer im Magen liegen` (voir aussi plus bas).
 - **ça lui/leur passera (avec l'âge)** → **das geht mit der Zeit vorbei** (ou *das
   gibt sich mit der Zeit*, *das legt sich*).
 - **conflit / dispute / embrouille (du matin)** → **Streit** (courant) ou **Zoff**
