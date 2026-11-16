@@ -775,6 +775,8 @@ correction de l'utilisateur.
 - **appuyer sur snooze** → **snoozen** (verbe courant à l'oral), pas `auf Snooze drücken`.
 - **brique de lait / carton** → **Karton** (neutre, sûr) ; `Tetrapak` est une marque
   (générique à l'oral mais à éviter en pub propre).
+- **sachet / paquet (de produit)** → **Packung(en)** (choix de marque, cohérent partout) ;
+  éviter `Beutel` (sachet/recharge). Cuillère doseuse → **Dosierlöffel** (pas `Messlöffel`).
 - **« du commerce » (produit concurrent)** → **handelsüblich** (`handelsübliche
   Multivitamin-Gummis`) ou `aus dem Supermarkt` ; `aus dem Handel` ok mais plat.
 - **intercepter / prendre à part (la maîtresse, etc.)** → `beim Abholen zur Seite
